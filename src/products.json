@@ -213,7 +213,7 @@
     "id": 22,
     "page": 23,
     "name": "Banana Fibre Car Sheet Cover",
-    "price": "1950 (1 set)",
+    "price": "1950",
     "dimensions": "Height 6 Feet / Width 3 Feet Retail",
     "category": "Mats & Covers",
     "image": "images/page_23_img_1.jpeg",
@@ -312,12 +312,22 @@
   {
     "id": 32,
     "page": 33,
-    "name": "Banana Fibre Value Added with Jute",
+    "name": "Banana Fibre Value Added with Jute Lunch Bag",
     "price": "250",
     "dimensions": "Height 11 “ /Width 11”",
     "category": "Jute Products",
     "image": "images/page_33_img_1.jpeg",
     "originalText": "32. Banana Fibre Value Added with Jute \nDimension : Height 11 “ /Width 11” \nProduct name : Lunch Bag \nRetail Price : 250 \nDimension : Width 21” / Height 14 “ \nProduct Name : File Folder \nPrice : 275"
+  },
+  {
+    "id": 322,
+    "page": 33,
+    "name": "Banana Fibre Value Added with Jute File Folder",
+    "price": "275",
+    "dimensions": "Width 21” / Height 14 “",
+    "category": "Jute Products",
+    "image": "images/page_33_img_2.jpeg",
+    "originalText": "Product Name : File Folder \nPrice : 275"
   },
   {
     "id": 33,
@@ -363,7 +373,7 @@
     "id": 37,
     "page": 38,
     "name": "Banana Bark Wedding Return Gifts Baskets",
-    "price": "1800 Wholesale",
+    "price": "650",
     "dimensions": "",
     "category": "Baskets & Trays",
     "image": "images/page_38_img_1.jpeg",
@@ -822,7 +832,7 @@
   {
     "id": 83,
     "page": 84,
-    "name": "Banana Fiber",
+    "name": "Banana Fibre Sandals VKC Brand",
     "price": "200",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -1082,7 +1092,7 @@
   {
     "id": 109,
     "page": 110,
-    "name": "Banana Fiber",
+    "name": "Banana Fibre Stylish Hand Bag",
     "price": "550",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -1102,7 +1112,7 @@
   {
     "id": 111,
     "page": 112,
-    "name": "Banana Fiber",
+    "name": "Banana Fibre Handmade Wall Decor",
     "price": "500",
     "dimensions": "",
     "category": "Decor & Utility",
