@@ -43,7 +43,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
       const imgSrc = product.image ? `/${product.image}` : '/vite.svg'; // Placeholder if no image
       const productTitle = product.name;
-      const productPrice = product.price ? `₹${product.price.replace(/[^0-9]/g, '')}` : 'Price on Request';
       
       const emailSubject = encodeURIComponent(`Inquiry for ${productTitle}`);
       const emailBody = encodeURIComponent(`Hi Kadali Dhaara Naturals,\n\nI am interested in bulk ordering the following product:\n\nProduct Name: ${productTitle}\nProduct Category: ${product.category}\nDimensions: ${product.dimensions}\n\nPlease let me know the bulk pricing and availability.\n\nThank you.`);
@@ -55,7 +54,6 @@ document.addEventListener('DOMContentLoaded', () => {
           <span class="product-category">${product.category}</span>
           <h3 class="product-title">${productTitle}</h3>
           ${product.dimensions ? `<p class="product-dimensions">${product.dimensions}</p>` : ''}
-          <div class="product-price">${productPrice}</div>
           <a href="${mailtoLink}" class="btn btn-enquire">Enquire Now</a>
         </div>
       `;
