@@ -20,7 +20,7 @@
     "price": "700",
     "dimensions": "Height 10”/ Width 8”",
     "category": "Baskets & Trays",
-    "image": "images/page_3_img_1.jpeg",
+    "image": "images/basket_hotel.png",
     "originalText": "2. Banana Bark Handmade Basket \nDimension :Height 10”/ Width 8” \n \nPrice : 700",
     "industries": [
       "hotels",
@@ -49,7 +49,7 @@
     "price": "375",
     "dimensions": "Dia 26” /Ht 5”",
     "category": "Decor & Utility",
-    "image": "images/page_5_img_1.jpeg",
+    "image": "images/poojakuda_wedding.png",
     "originalText": "4. Banana Bark Handmade Pooja kuda \nDimension :Dia 26” /Ht 5” \n \nPrice : 375",
     "industries": [
       "weddings",
@@ -64,7 +64,7 @@
     "price": "1200",
     "dimensions": "Height 41” /Width 22”",
     "category": "Mats & Covers",
-    "image": "images/page_6_img_1.jpeg",
+    "image": "images/fridgecover_wellness.png",
     "originalText": "5. Banana Fibre Mat Fridge Cover \nDimension :Height 41” /Width 22” \nPrice : 1200",
     "industries": [
       "hotels",
@@ -79,7 +79,7 @@
     "price": "700",
     "dimensions": "Height 7” /Dia 29”",
     "category": "Baskets & Trays",
-    "image": "images/page_7_img_1.jpeg",
+    "image": "images/basket2_hotel.png",
     "originalText": "6. Banana Fibre Handmade Basket \nDimension : Height 7” /Dia 29” \n \nPrice :700",
     "industries": [
       "hotels",
@@ -109,7 +109,7 @@
     "price": "Each piece 50",
     "dimensions": "As Per Customized",
     "category": "Decor & Utility",
-    "image": "images/page_9_img_1.jpeg",
+    "image": "images/decor_lifestyle.png",
     "originalText": "8. Banana Fibre Handmade Decor \nDimension : As Per Customized \nPrice : Each piece 50",
     "industries": [
       "hotels",
@@ -138,7 +138,7 @@
     "price": "260",
     "dimensions": "Dia 42 “",
     "category": "Decor & Utility",
-    "image": "images/page_11_img_1.jpeg",
+    "image": "images/decor2_lifestyle.png",
     "originalText": "10. Banana Fibre Handmade Decor \nDimension : Dia 42 “ \n/ Width 15 “ \n \nPrice : 260",
     "industries": [
       "hotels",
