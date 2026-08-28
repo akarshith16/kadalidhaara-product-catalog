@@ -3,10 +3,15 @@ import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-route
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Home from './pages/Home';
+import Catalog from './pages/Catalog';
 import IndustryPage from './pages/IndustryPage';
 import BulkOrders from './pages/BulkOrders';
 import About from './pages/About';
 import Contact from './pages/Contact';
+import { InquiryProvider } from './context/InquiryContext';
+import InquiryDrawer from './components/InquiryDrawer';
+import ProductQuickView from './components/ProductQuickView';
+import LineSheetModal from './components/LineSheetModal';
 
 const ScrollToTop = () => {
   const { pathname } = useLocation();
@@ -18,22 +23,30 @@ const ScrollToTop = () => {
 
 function App() {
   return (
-    <Router>
-      <ScrollToTop />
-      <div className="app-container">
-        <Navbar />
-        <main className="main-content">
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/industry/:industryId" element={<IndustryPage />} />
-            <Route path="/bulk-orders" element={<BulkOrders />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/contact" element={<Contact />} />
-          </Routes>
-        </main>
-        <Footer />
-      </div>
-    </Router>
+    <InquiryProvider>
+      <Router>
+        <ScrollToTop />
+        <div className="app-container">
+          <Navbar />
+          <main className="main-content">
+            <Routes>
+              <Route path="/" element={<Home />} />
+              <Route path="/catalog" element={<Catalog />} />
+              <Route path="/industry/:industryId" element={<IndustryPage />} />
+              <Route path="/bulk-orders" element={<BulkOrders />} />
+              <Route path="/about" element={<About />} />
+              <Route path="/contact" element={<Contact />} />
+            </Routes>
+          </main>
+          <Footer />
+
+          {/* Global Interactive Modals & Floating Components */}
+          <InquiryDrawer />
+          <ProductQuickView />
+          <LineSheetModal />
+        </div>
+      </Router>
+    </InquiryProvider>
   );
 }
 

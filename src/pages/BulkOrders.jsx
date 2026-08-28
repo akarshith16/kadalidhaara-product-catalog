@@ -34,7 +34,10 @@ const BulkOrders = () => {
         <div className="cta-section">
           <h2>Ready to order?</h2>
           <p>Contact us with your MOQ and customization requirements.</p>
-          <a href="mailto:contact@kadalidhaara.com?subject=Wholesale Enquiry" className="btn-primary">Email Us</a>
+          <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center', marginTop: '1rem', flexWrap: 'wrap' }}>
+            <a href="mailto:kadalidhaara@gmail.com?subject=Wholesale Enquiry" className="btn-primary">Email Us</a>
+            <a href="https://wa.me/916366638040?text=Hi%20Kadali%20Dhaara%20Team%2C%20I%20would%20like%20to%20discuss%20a%20bulk%20order." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ background: '#25d366' }}>WhatsApp Us</a>
+          </div>
         </div>
       </section>
     </div>

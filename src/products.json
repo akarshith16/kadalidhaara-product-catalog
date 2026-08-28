@@ -2,7 +2,7 @@
   {
     "id": 1,
     "page": 2,
-    "name": "Banana Bark Handmade Fruit Tray",
+    "name": "Artisanal Heritage Fruit Tray",
     "price": "550",
     "dimensions": "Height 4”/Width 16.5”",
     "category": "Baskets & Trays",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "page": 3,
-    "name": "Banana Bark Handmade Basket",
+    "name": "Classic Cylindrical Storage Basket",
     "price": "700",
     "dimensions": "Height 10”/ Width 8”",
     "category": "Baskets & Trays",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "page": 4,
-    "name": "Banana Bark Handmade Fruit Tray",
+    "name": "Grand Round Woven Fruit Tray",
     "price": "750",
     "dimensions": "Dia 54”/Height 4”",
     "category": "Baskets & Trays",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "page": 5,
-    "name": "Banana Bark Handmade Pooja kuda",
+    "name": "Traditional Temple Pooja Kuda",
     "price": "375",
     "dimensions": "Dia 26” /Ht 5”",
     "category": "Decor & Utility",
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "page": 6,
-    "name": "Banana Fibre Mat Fridge Cover",
+    "name": "Protective Woven Refrigerator Cover",
     "price": "1200",
     "dimensions": "Height 41” /Width 22”",
     "category": "Mats & Covers",
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "page": 7,
-    "name": "Banana Fibre Handmade Basket",
+    "name": "Handcrafted Deep Storage Basket",
     "price": "700",
     "dimensions": "Height 7” /Dia 29”",
     "category": "Baskets & Trays",
@@ -62,7 +62,7 @@
   {
     "id": 7,
     "page": 8,
-    "name": "Banana Fiber Handmade Cap",
+    "name": "Natural Woven Sun Cap",
     "price": "250",
     "dimensions": "Dia 42 “ / Width 14”",
     "category": "Decor & Utility",
@@ -72,7 +72,7 @@
   {
     "id": 8,
     "page": 9,
-    "name": "Banana Fibre Handmade Decor",
+    "name": "Handcrafted Botanical Wall Hanging",
     "price": "Each piece 50",
     "dimensions": "As Per Customized",
     "category": "Decor & Utility",
@@ -82,7 +82,7 @@
   {
     "id": 9,
     "page": 10,
-    "name": "Banana Fibre Handmade Lunchbag",
+    "name": "Artisan Insulated Lunch Tote",
     "price": "750rps",
     "dimensions": "Height 9” / Dia 35 “",
     "category": "Bags & Handbags",
@@ -92,7 +92,7 @@
   {
     "id": 10,
     "page": 11,
-    "name": "Banana Fibre Handmade Decor",
+    "name": "Bohemian Woven Mandala Decor",
     "price": "260",
     "dimensions": "Dia 42 “",
     "category": "Decor & Utility",
@@ -102,7 +102,7 @@
   {
     "id": 11,
     "page": 12,
-    "name": "Banana Fibre Handmade Wall Hanger",
+    "name": "Multipurpose Hanging Wall Caddy",
     "price": "600",
     "dimensions": "Height 48 “ / Weight",
     "category": "Decor & Utility",
@@ -112,7 +112,7 @@
   {
     "id": 12,
     "page": 13,
-    "name": "Banana Fibre Ladies Handbag",
+    "name": "Elegance Woven Shoulder Handbag",
     "price": "500rps",
     "dimensions": "Height 10” / Width 5 “",
     "category": "Bags & Handbags",
@@ -122,7 +122,7 @@
   {
     "id": 13,
     "page": 14,
-    "name": "Banana Fibre Oval type ladies bag",
+    "name": "Artisanal Oval Silhouette Handbag",
     "price": "750",
     "dimensions": "Dia Height 9 “ / Width 13",
     "category": "Bags & Handbags",
@@ -132,7 +132,7 @@
   {
     "id": 14,
     "page": 15,
-    "name": "Banana Fibre Handmade Ladies Bag",
+    "name": "Heritage Weave Day Handbag",
     "price": "1100",
     "dimensions": "HT 10” /",
     "category": "Bags & Handbags",
@@ -142,7 +142,7 @@
   {
     "id": 15,
     "page": 16,
-    "name": "Banana Fibre Laptop Bag",
+    "name": "Eco-Luxury Executive Laptop Bag",
     "price": "1200 rps",
     "dimensions": "Height 11 “ / Width",
     "category": "Bags & Handbags",
@@ -152,7 +152,7 @@
   {
     "id": 16,
     "page": 17,
-    "name": "Banana Fibre Mobile Pouch",
+    "name": "Handcrafted Mobile Phone Pouch",
     "price": "300",
     "dimensions": "Height 26 “ / Width 6 “",
     "category": "Decor & Utility",
@@ -162,7 +162,7 @@
   {
     "id": 17,
     "page": 18,
-    "name": "Banana Fibre square type bag(SQ)",
+    "name": "Structured Square Tote Handbag",
     "price": "650",
     "dimensions": "Dia Height 7 “/ Width 5.5 “",
     "category": "Bags & Handbags",
@@ -172,7 +172,7 @@
   {
     "id": 18,
     "page": 19,
-    "name": "Banana Fibre round type bag(RD)",
+    "name": "Boho Round Crossbody Bag",
     "price": "650",
     "dimensions": "Dia Height 7” /",
     "category": "Bags & Handbags",
@@ -182,7 +182,7 @@
   {
     "id": 19,
     "page": 20,
-    "name": "Banana Fiber Xolo Bag",
+    "name": "Contemporary Xolo Shoulder Bag",
     "price": "685",
     "dimensions": "Height 18 “ / Width 14”",
     "category": "Bags & Handbags",
@@ -192,7 +192,7 @@
   {
     "id": 20,
     "page": 21,
-    "name": "Banana Fibre Yoga mat",
+    "name": "Natural Handwoven Meditation Yoga Mat",
     "price": "2000",
     "dimensions": "Height 7 Feet / 2.5 Feet",
     "category": "Mats & Covers",
@@ -202,7 +202,7 @@
   {
     "id": 21,
     "page": 22,
-    "name": "Banana Fibre twisted Tray",
+    "name": "Twisted Edge Serving Tray",
     "price": "725",
     "dimensions": "Ht 4”/Dia 29 “",
     "category": "Baskets & Trays",
@@ -212,7 +212,7 @@
   {
     "id": 22,
     "page": 23,
-    "name": "Banana Fibre Car Sheet Cover",
+    "name": "Breathable Woven Car Seat Cushion Cover",
     "price": "1950",
     "dimensions": "Height 6 Feet / Width 3 Feet Retail",
     "category": "Mats & Covers",
@@ -222,7 +222,7 @@
   {
     "id": 23,
     "page": 24,
-    "name": "Banana Fibre Handmade Tray",
+    "name": "Rectangle Artisan Serving Platter",
     "price": "310",
     "dimensions": "Dia 29 “ / Width 10”",
     "category": "Baskets & Trays",
@@ -232,7 +232,7 @@
   {
     "id": 24,
     "page": 25,
-    "name": "Banana Bark V Type Handmade Basket",
+    "name": "V-Tapered Woven Gift Basket",
     "price": "785",
     "dimensions": "Height 10”/Width 6”",
     "category": "Baskets & Trays",
@@ -242,7 +242,7 @@
   {
     "id": 25,
     "page": 26,
-    "name": "Banana Bark Handmade Basket",
+    "name": "Rustic Weave Utility Basket",
     "price": "850",
     "dimensions": "Len 17”Wid 6” HT16”",
     "category": "Baskets & Trays",
@@ -252,7 +252,7 @@
   {
     "id": 26,
     "page": 27,
-    "name": "Banana Bark Basket with Handle",
+    "name": "Deep Market Basket with Sturdy Handles",
     "price": "1200",
     "dimensions": "Len 17” Width 7” Height 12”",
     "category": "Baskets & Trays",
@@ -262,7 +262,7 @@
   {
     "id": 27,
     "page": 28,
-    "name": "Banana Fibre Ladies Purse",
+    "name": "Artisanal Envelope Hand Purse",
     "price": "185",
     "dimensions": "Length 8 “ / Width 10”",
     "category": "Bags & Handbags",
@@ -272,7 +272,7 @@
   {
     "id": 28,
     "page": 29,
-    "name": "Banana Bark Laundry Basket",
+    "name": "Luxury Resort Tall Laundry Hamper",
     "price": "2000",
     "dimensions": "Dia 42” / 2.5 Feet",
     "category": "Baskets & Trays",
@@ -282,7 +282,7 @@
   {
     "id": 29,
     "page": 30,
-    "name": "Banana Bark Tea Toasters",
+    "name": "Natural Bark Tea Coaster Set",
     "price": "80",
     "dimensions": "Dia 13 “ / Width 4 “",
     "category": "Decor & Utility",
@@ -292,7 +292,7 @@
   {
     "id": 30,
     "page": 31,
-    "name": "Banana Fibre Fabric Mat",
+    "name": "Fine Weave Table Linen Mat",
     "price": "300 Per",
     "dimensions": "17 “ Width",
     "category": "Mats & Covers",
@@ -302,7 +302,7 @@
   {
     "id": 31,
     "page": 32,
-    "name": "Banana Fibre two side Mat Dote Bag",
+    "name": "Dual-Tone Reversible Woven Tote",
     "price": "500",
     "dimensions": "Height 10.5” / Width 13 “",
     "category": "Bags & Handbags",
@@ -312,7 +312,7 @@
   {
     "id": 32,
     "page": 33,
-    "name": "Banana Fibre Value Added with Jute Lunch Bag",
+    "name": "Jute-Accented Eco Lunch Bag",
     "price": "250",
     "dimensions": "Height 11 “ /Width 11”",
     "category": "Jute Products",
@@ -322,7 +322,7 @@
   {
     "id": 322,
     "page": 33,
-    "name": "Banana Fibre Value Added with Jute File Folder",
+    "name": "Jute-Accented Executive Document Folder",
     "price": "275",
     "dimensions": "Width 21” / Height 14 “",
     "category": "Jute Products",
@@ -332,7 +332,7 @@
   {
     "id": 33,
     "page": 34,
-    "name": "Banana Fibre Mat Table Runner",
+    "name": "Earthy Textured Dining Table Runner",
     "price": "300",
     "dimensions": "Height 13” / Width 11”",
     "category": "Mats & Covers",
@@ -342,7 +342,7 @@
   {
     "id": 34,
     "page": 35,
-    "name": "Banana Fibre Value Added with Jute",
+    "name": "Jute-Blended Utility Tote",
     "price": "220",
     "dimensions": "Height 1 Feet / Width 17 “ Product",
     "category": "Jute Products",
@@ -352,7 +352,7 @@
   {
     "id": 35,
     "page": 36,
-    "name": "Banana Fibre Handmade Decors",
+    "name": "Artisanal Wall Medallion Accents",
     "price": "550",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -362,7 +362,7 @@
   {
     "id": 36,
     "page": 37,
-    "name": "Banana Fibre Mat Pencil Pouch",
+    "name": "Slim Woven Pencil & Cosmetic Pouch",
     "price": "100",
     "dimensions": "",
     "category": "Mats & Covers",
@@ -372,7 +372,7 @@
   {
     "id": 37,
     "page": 38,
-    "name": "Banana Bark Wedding Return Gifts Baskets",
+    "name": "Festive Wedding Return Gift Basket",
     "price": "650",
     "dimensions": "",
     "category": "Baskets & Trays",
@@ -382,7 +382,7 @@
   {
     "id": 38,
     "page": 39,
-    "name": "Banana Fiber Ladies Hand bag(RD)",
+    "name": "Circular Handwoven Vanity Bag",
     "price": "500",
     "dimensions": "",
     "category": "Bags & Handbags",
@@ -392,7 +392,7 @@
   {
     "id": 39,
     "page": 40,
-    "name": "Banana Fibre Tap Bag",
+    "name": "Modern Structured Tap Shoulder Bag",
     "price": "600",
     "dimensions": "",
     "category": "Bags & Handbags",
@@ -402,7 +402,7 @@
   {
     "id": 40,
     "page": 41,
-    "name": "Banana Fibre Handmade Mat with Shell",
+    "name": "Seashell-Embellished Decorative Mat",
     "price": "300",
     "dimensions": "",
     "category": "Mats & Covers",
@@ -412,7 +412,7 @@
   {
     "id": 41,
     "page": 42,
-    "name": "Banana Extraction wastage Plates (organic )",
+    "name": "Organic Biodegradable Dining Eco Plates",
     "price": "80 Wholesale",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -422,7 +422,7 @@
   {
     "id": 42,
     "page": 43,
-    "name": "Handmade Banana Fibre Mat with photo frame",
+    "name": "Handwoven Keepsake Photo Frame Mat",
     "price": "450",
     "dimensions": "",
     "category": "Mats & Covers",
@@ -432,7 +432,7 @@
   {
     "id": 43,
     "page": 44,
-    "name": "Banana Bark Wedding Return Gifts",
+    "name": "Traditional Bridal Return Gift Hamper",
     "price": "650(1 Set 3 pieces)",
     "dimensions": "",
     "category": "Wedding Return Gifts",
@@ -442,7 +442,7 @@
   {
     "id": 44,
     "page": 45,
-    "name": "Banana Bark Wedding Return Gifts",
+    "name": "Embellished Festive Favor Caddy",
     "price": "300",
     "dimensions": "",
     "category": "Wedding Return Gifts",
@@ -452,7 +452,7 @@
   {
     "id": 45,
     "page": 46,
-    "name": "Banana Bark Wedding Return Gifts",
+    "name": "Heritage Wedding Keepsake Box",
     "price": "300",
     "dimensions": "",
     "category": "Wedding Return Gifts",
@@ -462,7 +462,7 @@
   {
     "id": 46,
     "page": 47,
-    "name": "Banana Bark Wedding Return Gifts",
+    "name": "Royal Celebration Favor Basket",
     "price": "150",
     "dimensions": "",
     "category": "Wedding Return Gifts",
@@ -472,7 +472,7 @@
   {
     "id": 47,
     "page": 48,
-    "name": "Banana Bark Wedding Return Gifts",
+    "name": "Intricate Bark Ceremony Gift Hamper",
     "price": "300",
     "dimensions": "",
     "category": "Wedding Return Gifts",
@@ -482,7 +482,7 @@
   {
     "id": 48,
     "page": 49,
-    "name": "Banana Bark Wedding Return Gifts",
+    "name": "Classic Festive Return Gift Basket",
     "price": "300",
     "dimensions": "",
     "category": "Wedding Return Gifts",
@@ -492,7 +492,7 @@
   {
     "id": 49,
     "page": 50,
-    "name": "Banana Fiber Ladies Hand bag(Square)",
+    "name": "Modern Square Woven Handbag",
     "price": "600",
     "dimensions": "",
     "category": "Bags & Handbags",
@@ -502,7 +502,7 @@
   {
     "id": 50,
     "page": 51,
-    "name": "Banana Fiber Wedding Return Gifts",
+    "name": "Festive Celebration Gift Box",
     "price": "200",
     "dimensions": "",
     "category": "Wedding Return Gifts",
@@ -512,7 +512,7 @@
   {
     "id": 51,
     "page": 52,
-    "name": "Banana Fibre Sanitary Pads",
+    "name": "Biodegradable Eco-Sanitary Natural Pads",
     "price": "250",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -522,7 +522,7 @@
   {
     "id": 52,
     "page": 53,
-    "name": "Banana Fiber Handmade Mat with Handmade Paint",
+    "name": "Hand-Painted Artisan Floral Mat",
     "price": "600",
     "dimensions": "",
     "category": "Mats & Covers",
@@ -532,7 +532,7 @@
   {
     "id": 53,
     "page": 54,
-    "name": "Banana Fiber Handmade Mat with Handmade Paint",
+    "name": "Hand-Painted Folk Art Display Mat",
     "price": "600",
     "dimensions": "",
     "category": "Mats & Covers",
@@ -542,7 +542,7 @@
   {
     "id": 54,
     "page": 55,
-    "name": "Banana Fibre Handmade Ladies Bag",
+    "name": "Artisan Woven Casual Handbag",
     "price": "1100",
     "dimensions": "",
     "category": "Bags & Handbags",
@@ -552,7 +552,7 @@
   {
     "id": 55,
     "page": 56,
-    "name": "Banana Fiber Handmade Bag",
+    "name": "Minimalist Everyday Market Bag",
     "price": "990",
     "dimensions": "",
     "category": "Bags & Handbags",
@@ -562,7 +562,7 @@
   {
     "id": 56,
     "page": 57,
-    "name": "Banana Fiber Handbag",
+    "name": "Contemporary Chic Day Tote",
     "price": "1100",
     "dimensions": "",
     "category": "Bags & Handbags",
@@ -572,7 +572,7 @@
   {
     "id": 57,
     "page": 58,
-    "name": "Banana Fibre Handmade Décor",
+    "name": "Bohemian Woven Floral Wall Accent",
     "price": "250",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -582,7 +582,7 @@
   {
     "id": 58,
     "page": 59,
-    "name": "Banana Fibre Handmade Gift Decor",
+    "name": "Festive Return Gift Wall Medallion",
     "price": "250",
     "dimensions": "",
     "category": "Wedding Return Gifts",
@@ -592,7 +592,7 @@
   {
     "id": 59,
     "page": 60,
-    "name": "Banana Fiber Wedding Return Gifts",
+    "name": "Grand Wedding Return Gift Hamper",
     "price": "350",
     "dimensions": "",
     "category": "Wedding Return Gifts",
@@ -602,7 +602,7 @@
   {
     "id": 60,
     "page": 61,
-    "name": "Banana Fibre Showcase Gifting Item",
+    "name": "Artisanal Showcase Decorative Figurine",
     "price": "250",
     "dimensions": "",
     "category": "Wedding Return Gifts",
@@ -612,7 +612,7 @@
   {
     "id": 61,
     "page": 62,
-    "name": "Banana Fiber Handmade Wedding Return Gifts",
+    "name": "Celebration Return Gift Keepsake",
     "price": "350",
     "dimensions": "",
     "category": "Wedding Return Gifts",
@@ -622,7 +622,7 @@
   {
     "id": 62,
     "page": 63,
-    "name": "Banana Fibre Handmade Showcase Gifts",
+    "name": "Handcrafted Heritage Showcase Figurine",
     "price": "350",
     "dimensions": "",
     "category": "Wedding Return Gifts",
@@ -632,7 +632,7 @@
   {
     "id": 63,
     "page": 64,
-    "name": "Banana Fibre Handmade Showcase Gifts",
+    "name": "Sculptural Folk Art Showcase Decor",
     "price": "325",
     "dimensions": "",
     "category": "Wedding Return Gifts",
@@ -642,7 +642,7 @@
   {
     "id": 64,
     "page": 65,
-    "name": "Banana Fibre Handmade Showcase Gifts",
+    "name": "Artisanal Peacock Showcase Figurine",
     "price": "250",
     "dimensions": "",
     "category": "Wedding Return Gifts",
@@ -652,7 +652,7 @@
   {
     "id": 65,
     "page": 66,
-    "name": "Banana Fibre Handmade Head cap",
+    "name": "Handcrafted Natural Woven Sun Hat",
     "price": "300",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -662,7 +662,7 @@
   {
     "id": 66,
     "page": 67,
-    "name": "Banana Fibre Handmade Floor Mat",
+    "name": "Resort Luxury Handwoven Floor Rug",
     "price": "400",
     "dimensions": "",
     "category": "Mats & Covers",
@@ -672,7 +672,7 @@
   {
     "id": 67,
     "page": 68,
-    "name": "Banana Fibre Handmade Mat",
+    "name": "Eco-Living Woven Area Mat",
     "price": "450",
     "dimensions": "",
     "category": "Mats & Covers",
@@ -682,7 +682,7 @@
   {
     "id": 68,
     "page": 69,
-    "name": "Banana Fibre Handmade Lunch Bag",
+    "name": "Everyday Sustainable Lunch Bag",
     "price": "800",
     "dimensions": "",
     "category": "Bags & Handbags",
@@ -692,7 +692,7 @@
   {
     "id": 69,
     "page": 70,
-    "name": "Banana Fibre Handmade Decor",
+    "name": "Artisanal Sunburst Wall Hanging",
     "price": "250",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -702,7 +702,7 @@
   {
     "id": 70,
     "page": 71,
-    "name": "Banana Fibre Handmade Mat",
+    "name": "Deluxe Woven Master Bed Runner",
     "price": "1500",
     "dimensions": "",
     "category": "Mats & Covers",
@@ -712,7 +712,7 @@
   {
     "id": 71,
     "page": 72,
-    "name": "Banana Fibre Handmade Shopping Bag",
+    "name": "Classic Market Woven Shopping Tote",
     "price": "1100",
     "dimensions": "",
     "category": "Bags & Handbags",
@@ -722,7 +722,7 @@
   {
     "id": 72,
     "page": 73,
-    "name": "Banana Fibre Handmade Shopping Bag",
+    "name": "Spacious Grocery Shopping Bag",
     "price": "1100",
     "dimensions": "",
     "category": "Bags & Handbags",
@@ -732,7 +732,7 @@
   {
     "id": 73,
     "page": 74,
-    "name": "Banana Fibre Handmade Ladies Bag",
+    "name": "Contemporary Bohemian Shoulder Bag",
     "price": "1100",
     "dimensions": "",
     "category": "Bags & Handbags",
@@ -742,7 +742,7 @@
   {
     "id": 74,
     "page": 75,
-    "name": "Banana Fiber Handmade Mat",
+    "name": "Natural Textured Floor & Bench Mat",
     "price": "300",
     "dimensions": "",
     "category": "Mats & Covers",
@@ -752,7 +752,7 @@
   {
     "id": 75,
     "page": 76,
-    "name": "Banana Fiber Handmade MAT (Designs)",
+    "name": "Geometric Pattern Woven Floor Mat",
     "price": "300",
     "dimensions": "",
     "category": "Mats & Covers",
@@ -762,7 +762,7 @@
   {
     "id": 76,
     "page": 77,
-    "name": "Shopping Bag (JUTE with Printed)",
+    "name": "Printed Jute Market Shopping Bag",
     "price": "350",
     "dimensions": "",
     "category": "Bags & Handbags",
@@ -772,7 +772,7 @@
   {
     "id": 77,
     "page": 78,
-    "name": "Banana Fiber Puja Broom",
+    "name": "Traditional Temple Ritual Pooja Broom",
     "price": "150",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -782,7 +782,7 @@
   {
     "id": 78,
     "page": 79,
-    "name": "Banana Fibre Pooja Basket",
+    "name": "Royal Temple Floral Pooja Basket",
     "price": "250",
     "dimensions": "",
     "category": "Baskets & Trays",
@@ -792,7 +792,7 @@
   {
     "id": 79,
     "page": 80,
-    "name": "Banana Fiber Handmade Stylish Handbag",
+    "name": "Boutique Stylish Handbag with Braided Handles",
     "price": "450",
     "dimensions": "",
     "category": "Bags & Handbags",
@@ -802,7 +802,7 @@
   {
     "id": 80,
     "page": 81,
-    "name": "Banana Fiber Handmade Stylish Handbag",
+    "name": "Designer Woven Evening Handbag",
     "price": "500",
     "dimensions": "",
     "category": "Bags & Handbags",
@@ -812,7 +812,7 @@
   {
     "id": 81,
     "page": 82,
-    "name": "Banana fiber Handmade Planter",
+    "name": "Artisanal Woven Planter Pot",
     "price": "1200",
     "dimensions": "",
     "category": "Baskets & Trays",
@@ -822,7 +822,7 @@
   {
     "id": 82,
     "page": 83,
-    "name": "Banana Fiber Mat Sandals",
+    "name": "Ergonomic Eco-Resort Spa Slippers",
     "price": "200",
     "dimensions": "",
     "category": "Mats & Covers",
@@ -832,7 +832,7 @@
   {
     "id": 83,
     "page": 84,
-    "name": "Banana Fibre Sandals VKC Brand",
+    "name": "Comfort-Fit Natural Fiber Slippers",
     "price": "200",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -842,7 +842,7 @@
   {
     "id": 84,
     "page": 85,
-    "name": "Banana Bark Handmade Basket",
+    "name": "Rustic Weave Storage & Gift Basket",
     "price": "1100",
     "dimensions": "",
     "category": "Baskets & Trays",
@@ -852,7 +852,7 @@
   {
     "id": 85,
     "page": 86,
-    "name": "Banana Fiber Handmade Design Mat",
+    "name": "Intricate Spiral Dining Placemat",
     "price": "350",
     "dimensions": "",
     "category": "Mats & Covers",
@@ -862,7 +862,7 @@
   {
     "id": 86,
     "page": 87,
-    "name": "Banana Fiber Mat Pillow Cover",
+    "name": "Textured Fibre Accent Cushion Cover",
     "price": "250",
     "dimensions": "",
     "category": "Mats & Covers",
@@ -872,7 +872,7 @@
   {
     "id": 87,
     "page": 88,
-    "name": "Banana Fiber Handmade Mat Curtains",
+    "name": "Natural Handwoven Roll-up Window Blinds",
     "price": "Per Meter 300",
     "dimensions": "",
     "category": "Mats & Covers",
@@ -882,7 +882,7 @@
   {
     "id": 88,
     "page": 89,
-    "name": "Banana Fiber Single Twisted Rope",
+    "name": "Heavy-Duty Hand-Twisted Fibre Rope",
     "price": "Per Meter 5",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -892,7 +892,7 @@
   {
     "id": 89,
     "page": 90,
-    "name": "Banana Fiber Handmade Water Can Holder",
+    "name": "Insulated Water Dispenser Can Sleeve",
     "price": "250",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -902,7 +902,7 @@
   {
     "id": 90,
     "page": 91,
-    "name": "Water Can Bag",
+    "name": "Eco Water Bottle Carrier Bag",
     "price": "220",
     "dimensions": "",
     "category": "Bags & Handbags",
@@ -912,7 +912,7 @@
   {
     "id": 91,
     "page": 92,
-    "name": "Banana Fiber Mat Shopping Bag",
+    "name": "Luxury Resort Poolside Shopping Tote",
     "price": "550",
     "dimensions": "",
     "category": "Bags & Handbags",
@@ -922,7 +922,7 @@
   {
     "id": 92,
     "page": 93,
-    "name": "Banana Fiber Mat Sandals",
+    "name": "Single-Use Eco Guest Spa Sandals",
     "price": "250",
     "dimensions": "",
     "category": "Mats & Covers",
@@ -932,7 +932,7 @@
   {
     "id": 93,
     "page": 94,
-    "name": "Banana Fiber Mat",
+    "name": "Woven Handbag with Genuine Leather Straps",
     "price": "550",
     "dimensions": "",
     "category": "Mats & Covers",
@@ -942,7 +942,7 @@
   {
     "id": 94,
     "page": 95,
-    "name": "Banana Fiber Storage Box",
+    "name": "Rectangular Woven Storage Organizer Box",
     "price": "400",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -952,7 +952,7 @@
   {
     "id": 95,
     "page": 96,
-    "name": "Banana Fiber Garlands",
+    "name": "Traditional Festive Ceremony Garlands",
     "price": "150",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -962,7 +962,7 @@
   {
     "id": 96,
     "page": 97,
-    "name": "Wedding Bag (JUTE)",
+    "name": "Golden Wedding Jute Gift Bag",
     "price": "220",
     "dimensions": "",
     "category": "Bags & Handbags",
@@ -972,7 +972,7 @@
   {
     "id": 97,
     "page": 98,
-    "name": "Wedding Bag (JUTE)",
+    "name": "Classic Wedding Favor Jute Bag",
     "price": "220(UPTO 500 Pieces)",
     "dimensions": "",
     "category": "Bags & Handbags",
@@ -982,7 +982,7 @@
   {
     "id": 98,
     "page": 99,
-    "name": "Banana Bark Handmade Basket with Bamboo",
+    "name": "Handcrafted Basket with Natural Bamboo Handle",
     "price": "1500",
     "dimensions": "",
     "category": "Baskets & Trays",
@@ -992,7 +992,7 @@
   {
     "id": 99,
     "page": 100,
-    "name": "Wedding",
+    "name": "Non-Woven Festive Celebration Favor Bag",
     "price": "110",
     "dimensions": "",
     "category": "Wedding Return Gifts",
@@ -1002,7 +1002,7 @@
   {
     "id": 100,
     "page": 101,
-    "name": "Banana Bark Pot",
+    "name": "Indoor Botanical Planter Pot",
     "price": "320 (Small)",
     "dimensions": "",
     "category": "Baskets & Trays",
@@ -1012,7 +1012,7 @@
   {
     "id": 101,
     "page": 102,
-    "name": "Banana Bark",
+    "name": "Planter Basket with Integrated Growbag",
     "price": "750",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -1022,7 +1022,7 @@
   {
     "id": 102,
     "page": 103,
-    "name": "Banana Fiber",
+    "name": "Handwoven Jewellery & Trinket Box",
     "price": "320",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -1032,7 +1032,7 @@
   {
     "id": 103,
     "page": 104,
-    "name": "Banana Fiber",
+    "name": "Handcrafted Natural Fibre Sun Visor Cap",
     "price": "300",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -1042,7 +1042,7 @@
   {
     "id": 104,
     "page": 105,
-    "name": "Banana Fiber Mat Mouse Pad",
+    "name": "Ergonomic Natural Fibre Desk Mouse Pad",
     "price": "120",
     "dimensions": "",
     "category": "Mats & Covers",
@@ -1052,7 +1052,7 @@
   {
     "id": 105,
     "page": 106,
-    "name": "Banana Fibre Handmade Bread Basket with wooden Plate (Inside Image similar Change )",
+    "name": "Artisan Bread Basket with Teak Base",
     "price": "550",
     "dimensions": "",
     "category": "Baskets & Trays",
@@ -1062,7 +1062,7 @@
   {
     "id": 106,
     "page": 107,
-    "name": "Banana Fiber Stylish",
+    "name": "Foldable Contemporary Shopping Bag",
     "price": "485",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -1072,7 +1072,7 @@
   {
     "id": 107,
     "page": 108,
-    "name": "Banana Fiber Handmade Spoon Holder",
+    "name": "Countertop Cutlery & Spoon Holder",
     "price": "450",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -1082,7 +1082,7 @@
   {
     "id": 108,
     "page": 109,
-    "name": "Banana Fiber Mat Tourist",
+    "name": "Artisanal Tourist Travel Wallet Clutch",
     "price": "450",
     "dimensions": "",
     "category": "Mats & Covers",
@@ -1092,7 +1092,7 @@
   {
     "id": 109,
     "page": 110,
-    "name": "Banana Fibre Stylish Hand Bag",
+    "name": "Urban Chic Everyday Handbag",
     "price": "550",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -1102,7 +1102,7 @@
   {
     "id": 110,
     "page": 111,
-    "name": "Wall Hanger",
+    "name": "Accordion Expandable Woven Wall Hanger",
     "price": "600",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -1112,7 +1112,7 @@
   {
     "id": 111,
     "page": 112,
-    "name": "Banana Fibre Handmade Wall Decor",
+    "name": "Handcrafted Mandala Wall Art Decor",
     "price": "500",
     "dimensions": "",
     "category": "Decor & Utility",
@@ -1122,7 +1122,7 @@
   {
     "id": 112,
     "page": 113,
-    "name": "Banana Fiber Handmade Basket 24",
+    "name": "Classic Round Multipurpose Woven Basket",
     "price": "550",
     "dimensions": "",
     "category": "Baskets & Trays",

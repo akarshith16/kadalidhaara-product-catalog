@@ -8,7 +8,8 @@ const Footer = () => {
         <div className="footer-section">
           <h3>Kadali Dhaara Naturals</h3>
           <p>Handcrafted banana fibre products from Pulivendula, Andhra Pradesh. Sustainable, authentic, and eco-friendly.</p>
-          <p>Email: contact@kadalidhaara.com</p>
+          <p style={{ marginTop: '0.5rem' }}><strong>Email:</strong> kadalidhaara@gmail.com</p>
+          <p><strong>WhatsApp:</strong> +91 63666 38040</p>
         </div>
         <div className="footer-section">
           <h4>Industries</h4>
