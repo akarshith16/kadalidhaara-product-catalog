@@ -4,70 +4,103 @@
     "page": 2,
     "name": "Artisanal Heritage Fruit Tray",
     "price": "550",
-    "dimensions": "Height 4”/Width 16.5”",
+    "dimensions": "Height 4\u201d/Width 16.5\u201d",
     "category": "Baskets & Trays",
-    "image": "images/page_2_img_1.jpeg",
-    "originalText": "1. Banana Bark Handmade Fruit Tray \nDimension : Height 4”/Width 16.5” \n \n \nPrice : 550"
+    "image": "images/product_1_hq.png",
+    "originalText": "1. Banana Bark Handmade Fruit Tray \nDimension : Height 4\u201d/Width 16.5\u201d \n \n \nPrice : 550",
+    "industries": [
+      "hotels",
+      "food"
+    ]
   },
   {
     "id": 2,
     "page": 3,
     "name": "Classic Cylindrical Storage Basket",
     "price": "700",
-    "dimensions": "Height 10”/ Width 8”",
+    "dimensions": "Height 10\u201d/ Width 8\u201d",
     "category": "Baskets & Trays",
-    "image": "images/page_3_img_1.jpeg",
-    "originalText": "2. Banana Bark Handmade Basket \nDimension :Height 10”/ Width 8” \n \nPrice : 700"
+    "image": "images/product_2_hq.png",
+    "originalText": "2. Banana Bark Handmade Basket \nDimension :Height 10\u201d/ Width 8\u201d \n \nPrice : 700",
+    "industries": [
+      "hotels",
+      "weddings",
+      "food"
+    ]
   },
   {
     "id": 3,
     "page": 4,
     "name": "Grand Round Woven Fruit Tray",
     "price": "750",
-    "dimensions": "Dia 54”/Height 4”",
+    "dimensions": "Dia 54\u201d/Height 4\u201d",
     "category": "Baskets & Trays",
-    "image": "images/page_4_img_1.jpeg",
-    "originalText": "3. Banana Bark Handmade Fruit Tray \nDimension :Dia 54”/Height 4” \nPrice : 750"
+    "image": "images/product_3_hq.png",
+    "originalText": "3. Banana Bark Handmade Fruit Tray \nDimension :Dia 54\u201d/Height 4\u201d \nPrice : 750",
+    "industries": [
+      "hotels",
+      "food"
+    ]
   },
   {
     "id": 4,
     "page": 5,
     "name": "Traditional Temple Pooja Kuda",
     "price": "375",
-    "dimensions": "Dia 26” /Ht 5”",
+    "dimensions": "Dia 26\u201d /Ht 5\u201d",
     "category": "Decor & Utility",
-    "image": "images/page_5_img_1.jpeg",
-    "originalText": "4. Banana Bark Handmade Pooja kuda \nDimension :Dia 26” /Ht 5” \n \nPrice : 375"
+    "image": "images/product_4_hq.png",
+    "originalText": "4. Banana Bark Handmade Pooja kuda \nDimension :Dia 26\u201d /Ht 5\u201d \n \nPrice : 375",
+    "industries": [
+      "weddings",
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 5,
     "page": 6,
     "name": "Protective Woven Refrigerator Cover",
     "price": "1200",
-    "dimensions": "Height 41” /Width 22”",
+    "dimensions": "Height 41\u201d /Width 22\u201d",
     "category": "Mats & Covers",
-    "image": "images/page_6_img_1.jpeg",
-    "originalText": "5. Banana Fibre Mat Fridge Cover \nDimension :Height 41” /Width 22” \nPrice : 1200"
+    "image": "images/product_5_hq.png",
+    "originalText": "5. Banana Fibre Mat Fridge Cover \nDimension :Height 41\u201d /Width 22\u201d \nPrice : 1200",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 6,
     "page": 7,
     "name": "Handcrafted Deep Storage Basket",
     "price": "700",
-    "dimensions": "Height 7” /Dia 29”",
+    "dimensions": "Height 7\u201d /Dia 29\u201d",
     "category": "Baskets & Trays",
-    "image": "images/page_7_img_1.jpeg",
-    "originalText": "6. Banana Fibre Handmade Basket \nDimension : Height 7” /Dia 29” \n \nPrice :700"
+    "image": "images/product_6_hq.png",
+    "originalText": "6. Banana Fibre Handmade Basket \nDimension : Height 7\u201d /Dia 29\u201d \n \nPrice :700",
+    "industries": [
+      "hotels",
+      "weddings",
+      "food"
+    ]
   },
   {
     "id": 7,
     "page": 8,
     "name": "Natural Woven Sun Cap",
     "price": "250",
-    "dimensions": "Dia 42 “ / Width 14”",
+    "dimensions": "Dia 42 \u201c / Width 14\u201d",
     "category": "Decor & Utility",
-    "image": "images/page_8_img_1.jpeg",
-    "originalText": "7. Banana Fiber Handmade Cap \nDimension : Dia 42 “ / Width 14” \nPrice : 250"
+    "image": "images/product_7_hq.png",
+    "originalText": "7. Banana Fiber Handmade Cap \nDimension : Dia 42 \u201c / Width 14\u201d \nPrice : 250",
+    "industries": [
+      "lifestyle",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 8,
@@ -76,118 +109,163 @@
     "price": "Each piece 50",
     "dimensions": "As Per Customized",
     "category": "Decor & Utility",
-    "image": "images/page_9_img_1.jpeg",
-    "originalText": "8. Banana Fibre Handmade Decor \nDimension : As Per Customized \nPrice : Each piece 50"
+    "image": "images/product_8_hq.png",
+    "originalText": "8. Banana Fibre Handmade Decor \nDimension : As Per Customized \nPrice : Each piece 50",
+    "industries": [
+      "hotels",
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 9,
     "page": 10,
     "name": "Artisan Insulated Lunch Tote",
     "price": "750rps",
-    "dimensions": "Height 9” / Dia 35 “",
+    "dimensions": "Height 9\u201d / Dia 35 \u201c",
     "category": "Bags & Handbags",
-    "image": "images/page_10_img_1.jpeg",
-    "originalText": "9. Banana Fibre Handmade Lunchbag \nDimension : Height 9” / Dia 35 “ \nPrice : 750rps"
+    "image": "images/product_9_hq.png",
+    "originalText": "9. Banana Fibre Handmade Lunchbag \nDimension : Height 9\u201d / Dia 35 \u201c \nPrice : 750rps",
+    "industries": [
+      "corporate",
+      "lifestyle"
+    ]
   },
   {
     "id": 10,
     "page": 11,
     "name": "Bohemian Woven Mandala Decor",
     "price": "260",
-    "dimensions": "Dia 42 “",
+    "dimensions": "Dia 42 \u201c",
     "category": "Decor & Utility",
-    "image": "images/page_11_img_1.jpeg",
-    "originalText": "10. Banana Fibre Handmade Decor \nDimension : Dia 42 “ \n/ Width 15 “ \n \nPrice : 260"
+    "image": "images/product_10_hq.png",
+    "originalText": "10. Banana Fibre Handmade Decor \nDimension : Dia 42 \u201c \n/ Width 15 \u201c \n \nPrice : 260",
+    "industries": [
+      "hotels",
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 11,
     "page": 12,
     "name": "Multipurpose Hanging Wall Caddy",
     "price": "600",
-    "dimensions": "Height 48 “ / Weight",
+    "dimensions": "Height 48 \u201c / Weight",
     "category": "Decor & Utility",
-    "image": "images/page_12_img_1.jpeg",
-    "originalText": "11. Banana Fibre Handmade Wall Hanger \nDimension : Height 48 “ / Weight \n250Gram \nPrice :600"
+    "image": "images/product_11_hq.png",
+    "originalText": "11. Banana Fibre Handmade Wall Hanger \nDimension : Height 48 \u201c / Weight \n250Gram \nPrice :600",
+    "industries": [
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 12,
     "page": 13,
     "name": "Elegance Woven Shoulder Handbag",
     "price": "500rps",
-    "dimensions": "Height 10” / Width 5 “",
+    "dimensions": "Height 10\u201d / Width 5 \u201c",
     "category": "Bags & Handbags",
-    "image": "images/page_13_img_1.jpeg",
-    "originalText": "12. Banana Fibre Ladies Handbag \nDimension : Height 10” / Width 5 “ \n \nPrice : 500rps"
+    "image": "images/product_12_hq.png",
+    "originalText": "12. Banana Fibre Ladies Handbag \nDimension : Height 10\u201d / Width 5 \u201c \n \nPrice : 500rps",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 13,
     "page": 14,
     "name": "Artisanal Oval Silhouette Handbag",
     "price": "750",
-    "dimensions": "Dia Height 9 “ / Width 13",
+    "dimensions": "Dia Height 9 \u201c / Width 13",
     "category": "Bags & Handbags",
-    "image": "images/page_14_img_1.jpeg",
-    "originalText": "13. Banana Fibre Oval type ladies bag \nDimension :Dia Height 9 “ / Width 13 \n“ \nPrice : 750"
+    "image": "images/product_13_hq.png",
+    "originalText": "13. Banana Fibre Oval type ladies bag \nDimension :Dia Height 9 \u201c / Width 13 \n\u201c \nPrice : 750",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 14,
     "page": 15,
     "name": "Heritage Weave Day Handbag",
     "price": "1100",
-    "dimensions": "HT 10” /",
+    "dimensions": "HT 10\u201d /",
     "category": "Bags & Handbags",
-    "image": "images/page_15_img_1.jpeg",
-    "originalText": "14. Banana Fibre Handmade Ladies Bag \nDimension : HT 10” / \nWd 4 “ \nPrice :1100"
+    "image": "images/product_14_hq.png",
+    "originalText": "14. Banana Fibre Handmade Ladies Bag \nDimension : HT 10\u201d / \nWd 4 \u201c \nPrice :1100",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 15,
     "page": 16,
     "name": "Eco-Luxury Executive Laptop Bag",
     "price": "1200 rps",
-    "dimensions": "Height 11 “ / Width",
+    "dimensions": "Height 11 \u201c / Width",
     "category": "Bags & Handbags",
-    "image": "images/page_16_img_1.jpeg",
-    "originalText": "15. Banana Fibre Laptop Bag \nDimension : Height 11 “ / Width \n4.5 “ \n \n \nPrice :1200 rps"
+    "image": "images/product_15_hq.png",
+    "originalText": "15. Banana Fibre Laptop Bag \nDimension : Height 11 \u201c / Width \n4.5 \u201c \n \n \nPrice :1200 rps",
+    "industries": [
+      "corporate",
+      "lifestyle"
+    ]
   },
   {
     "id": 16,
     "page": 17,
     "name": "Handcrafted Mobile Phone Pouch",
     "price": "300",
-    "dimensions": "Height 26 “ / Width 6 “",
+    "dimensions": "Height 26 \u201c / Width 6 \u201c",
     "category": "Decor & Utility",
-    "image": "images/page_17_img_1.jpeg",
-    "originalText": "16. Banana Fibre Mobile Pouch \nDimension : Height 26 “ / Width 6 “ \n \nPrice :300"
+    "image": "images/product_16_hq.png",
+    "originalText": "16. Banana Fibre Mobile Pouch \nDimension : Height 26 \u201c / Width 6 \u201c \n \nPrice :300",
+    "industries": [
+      "corporate",
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 17,
     "page": 18,
     "name": "Structured Square Tote Handbag",
     "price": "650",
-    "dimensions": "Dia Height 7 “/ Width 5.5 “",
+    "dimensions": "Dia Height 7 \u201c/ Width 5.5 \u201c",
     "category": "Bags & Handbags",
-    "image": "images/page_18_img_1.jpeg",
-    "originalText": "17. Banana Fibre square type bag(SQ) \nDimension : Dia Height 7 “/ Width 5.5 “ \n \nPrice : 650"
+    "image": "images/product_17_hq.png",
+    "originalText": "17. Banana Fibre square type bag(SQ) \nDimension : Dia Height 7 \u201c/ Width 5.5 \u201c \n \nPrice : 650",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 18,
     "page": 19,
     "name": "Boho Round Crossbody Bag",
     "price": "650",
-    "dimensions": "Dia Height 7” /",
+    "dimensions": "Dia Height 7\u201d /",
     "category": "Bags & Handbags",
-    "image": "images/page_19_img_1.jpeg",
-    "originalText": "18. Banana Fibre round type bag(RD) \nDimension : Dia Height 7” / \nWidth 5 “ \nPrice : 650"
+    "image": "images/product_18_hq.png",
+    "originalText": "18. Banana Fibre round type bag(RD) \nDimension : Dia Height 7\u201d / \nWidth 5 \u201c \nPrice : 650",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 19,
     "page": 20,
     "name": "Contemporary Xolo Shoulder Bag",
     "price": "685",
-    "dimensions": "Height 18 “ / Width 14”",
+    "dimensions": "Height 18 \u201c / Width 14\u201d",
     "category": "Bags & Handbags",
-    "image": "images/page_20_img_1.jpeg",
-    "originalText": "19. Banana Fiber Xolo Bag \nDimension : Height 18 “ / Width 14” \n \n \nPrice :685"
+    "image": "images/product_19_hq.png",
+    "originalText": "19. Banana Fiber Xolo Bag \nDimension : Height 18 \u201c / Width 14\u201d \n \n \nPrice :685",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 20,
@@ -196,18 +274,27 @@
     "price": "2000",
     "dimensions": "Height 7 Feet / 2.5 Feet",
     "category": "Mats & Covers",
-    "image": "images/page_21_img_1.jpeg",
-    "originalText": "20. Banana Fibre Yoga mat \nDimension : Height 7 Feet / 2.5 Feet  \n \nPrice : 2000"
+    "image": "images/product_20_hq.png",
+    "originalText": "20. Banana Fibre Yoga mat \nDimension : Height 7 Feet / 2.5 Feet  \n \nPrice : 2000",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 21,
     "page": 22,
     "name": "Twisted Edge Serving Tray",
     "price": "725",
-    "dimensions": "Ht 4”/Dia 29 “",
+    "dimensions": "Ht 4\u201d/Dia 29 \u201c",
     "category": "Baskets & Trays",
-    "image": "images/page_22_img_1.jpeg",
-    "originalText": "21. Banana Fibre twisted Tray \n \n \nDimension : Ht 4”/Dia 29 “ \n \nPrice :725 \nDimension : Height 4”/Width 16.5” \n \n        Price :1200"
+    "image": "images/product_21_hq.png",
+    "originalText": "21. Banana Fibre twisted Tray \n \n \nDimension : Ht 4\u201d/Dia 29 \u201c \n \nPrice :725 \nDimension : Height 4\u201d/Width 16.5\u201d \n \n        Price :1200",
+    "industries": [
+      "hotels",
+      "food"
+    ]
   },
   {
     "id": 22,
@@ -216,138 +303,199 @@
     "price": "1950",
     "dimensions": "Height 6 Feet / Width 3 Feet Retail",
     "category": "Mats & Covers",
-    "image": "images/page_23_img_1.jpeg",
-    "originalText": "22. Banana Fibre Car Sheet Cover \nDimension : Height 6 Feet / Width 3 Feet Retail  \n \nPrice :1950 (1 set)"
+    "image": "images/product_22_hq.png",
+    "originalText": "22. Banana Fibre Car Sheet Cover \nDimension : Height 6 Feet / Width 3 Feet Retail  \n \nPrice :1950 (1 set)",
+    "industries": [
+      "hotels"
+    ]
   },
   {
     "id": 23,
     "page": 24,
     "name": "Rectangle Artisan Serving Platter",
     "price": "310",
-    "dimensions": "Dia 29 “ / Width 10”",
+    "dimensions": "Dia 29 \u201c / Width 10\u201d",
     "category": "Baskets & Trays",
-    "image": "images/page_24_img_1.jpeg",
-    "originalText": "23. Banana Fibre Handmade Tray \nDimension : Dia 29 “ / Width 10” \n \nPrice :310"
+    "image": "images/product_23_hq.png",
+    "originalText": "23. Banana Fibre Handmade Tray \nDimension : Dia 29 \u201c / Width 10\u201d \n \nPrice :310",
+    "industries": [
+      "hotels",
+      "food"
+    ]
   },
   {
     "id": 24,
     "page": 25,
     "name": "V-Tapered Woven Gift Basket",
     "price": "785",
-    "dimensions": "Height 10”/Width 6”",
+    "dimensions": "Height 10\u201d/Width 6\u201d",
     "category": "Baskets & Trays",
-    "image": "images/page_25_img_1.jpeg",
-    "originalText": "24. Banana Bark V Type Handmade Basket \nDimension : Height 10”/Width 6” \n \nPrice :785"
+    "image": "images/product_24_hq.png",
+    "originalText": "24. Banana Bark V Type Handmade Basket \nDimension : Height 10\u201d/Width 6\u201d \n \nPrice :785",
+    "industries": [
+      "hotels",
+      "weddings",
+      "food"
+    ]
   },
   {
     "id": 25,
     "page": 26,
     "name": "Rustic Weave Utility Basket",
     "price": "850",
-    "dimensions": "Len 17”Wid 6” HT16”",
+    "dimensions": "Len 17\u201dWid 6\u201d HT16\u201d",
     "category": "Baskets & Trays",
-    "image": "images/page_26_img_1.jpeg",
-    "originalText": "25. Banana Bark Handmade Basket \nDimension : Len 17”Wid 6” HT16” \n \nPrice : 850"
+    "image": "images/product_25_hq.png",
+    "originalText": "25. Banana Bark Handmade Basket \nDimension : Len 17\u201dWid 6\u201d HT16\u201d \n \nPrice : 850",
+    "industries": [
+      "hotels",
+      "weddings",
+      "food"
+    ]
   },
   {
     "id": 26,
     "page": 27,
     "name": "Deep Market Basket with Sturdy Handles",
     "price": "1200",
-    "dimensions": "Len 17” Width 7” Height 12”",
+    "dimensions": "Len 17\u201d Width 7\u201d Height 12\u201d",
     "category": "Baskets & Trays",
-    "image": "images/page_27_img_1.jpeg",
-    "originalText": "26. Banana Bark Basket with Handle \nDimension : Len 17” Width 7” Height 12” \n \nPrice : 1200"
+    "image": "images/product_26_hq.png",
+    "originalText": "26. Banana Bark Basket with Handle \nDimension : Len 17\u201d Width 7\u201d Height 12\u201d \n \nPrice : 1200",
+    "industries": [
+      "hotels",
+      "weddings",
+      "food"
+    ]
   },
   {
     "id": 27,
     "page": 28,
     "name": "Artisanal Envelope Hand Purse",
     "price": "185",
-    "dimensions": "Length 8 “ / Width 10”",
+    "dimensions": "Length 8 \u201c / Width 10\u201d",
     "category": "Bags & Handbags",
-    "image": "images/page_28_img_1.jpeg",
-    "originalText": "27. Banana Fibre Ladies Purse \nDimension : Length 8 “ / Width 10” \n \nPrice : 185"
+    "image": "images/product_27_hq.png",
+    "originalText": "27. Banana Fibre Ladies Purse \nDimension : Length 8 \u201c / Width 10\u201d \n \nPrice : 185",
+    "industries": [
+      "corporate",
+      "lifestyle"
+    ]
   },
   {
     "id": 28,
     "page": 29,
     "name": "Luxury Resort Tall Laundry Hamper",
     "price": "2000",
-    "dimensions": "Dia 42” / 2.5 Feet",
+    "dimensions": "Dia 42\u201d / 2.5 Feet",
     "category": "Baskets & Trays",
-    "image": "images/page_29_img_1.jpeg",
-    "originalText": "28. Banana Bark Laundry Basket \nDimension : Dia 42” / 2.5 Feet \n \nPrice : 2000"
+    "image": "images/product_28_hq.png",
+    "originalText": "28. Banana Bark Laundry Basket \nDimension : Dia 42\u201d / 2.5 Feet \n \nPrice : 2000",
+    "industries": [
+      "hotels",
+      "weddings",
+      "food"
+    ]
   },
   {
     "id": 29,
     "page": 30,
     "name": "Natural Bark Tea Coaster Set",
     "price": "80",
-    "dimensions": "Dia 13 “ / Width 4 “",
+    "dimensions": "Dia 13 \u201c / Width 4 \u201c",
     "category": "Decor & Utility",
-    "image": "images/page_30_img_1.jpeg",
-    "originalText": "29. Banana Bark Tea Toasters \nDimension : Dia 13 “ / Width 4 “ \n \nPrice : 80"
+    "image": "images/product_29_hq.png",
+    "originalText": "29. Banana Bark Tea Toasters \nDimension : Dia 13 \u201c / Width 4 \u201c \n \nPrice : 80",
+    "industries": [
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 30,
     "page": 31,
     "name": "Fine Weave Table Linen Mat",
     "price": "300 Per",
-    "dimensions": "17 “ Width",
+    "dimensions": "17 \u201c Width",
     "category": "Mats & Covers",
-    "image": "images/page_31_img_1.jpeg",
-    "originalText": "30. Banana Fibre Fabric Mat \nDimension : 17 “ Width \nPrice : 300 Per \nMeter"
+    "image": "images/product_30_hq.png",
+    "originalText": "30. Banana Fibre Fabric Mat \nDimension : 17 \u201c Width \nPrice : 300 Per \nMeter",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 31,
     "page": 32,
     "name": "Dual-Tone Reversible Woven Tote",
     "price": "500",
-    "dimensions": "Height 10.5” / Width 13 “",
+    "dimensions": "Height 10.5\u201d / Width 13 \u201c",
     "category": "Bags & Handbags",
-    "image": "images/page_32_img_1.jpeg",
-    "originalText": "31. Banana Fibre two side Mat Dote Bag \nDimension : Height 10.5” / Width 13 “ \n \nPrice : 500"
+    "image": "images/product_31_hq.png",
+    "originalText": "31. Banana Fibre two side Mat Dote Bag \nDimension : Height 10.5\u201d / Width 13 \u201c \n \nPrice : 500",
+    "industries": [
+      "hotels",
+      "lifestyle",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 32,
     "page": 33,
     "name": "Jute-Accented Eco Lunch Bag",
     "price": "250",
-    "dimensions": "Height 11 “ /Width 11”",
+    "dimensions": "Height 11 \u201c /Width 11\u201d",
     "category": "Jute Products",
-    "image": "images/page_33_img_1.jpeg",
-    "originalText": "32. Banana Fibre Value Added with Jute \nDimension : Height 11 “ /Width 11” \nProduct name : Lunch Bag \nRetail Price : 250 \nDimension : Width 21” / Height 14 “ \nProduct Name : File Folder \nPrice : 275"
+    "image": "images/product_32_hq.png",
+    "originalText": "32. Banana Fibre Value Added with Jute \nDimension : Height 11 \u201c /Width 11\u201d \nProduct name : Lunch Bag \nRetail Price : 250 \nDimension : Width 21\u201d / Height 14 \u201c \nProduct Name : File Folder \nPrice : 275",
+    "industries": [
+      "corporate",
+      "lifestyle"
+    ]
   },
   {
     "id": 322,
     "page": 33,
     "name": "Jute-Accented Executive Document Folder",
     "price": "275",
-    "dimensions": "Width 21” / Height 14 “",
+    "dimensions": "Width 21\u201d / Height 14 \u201c",
     "category": "Jute Products",
-    "image": "images/page_33_img_2.jpeg",
-    "originalText": "Product Name : File Folder \nPrice : 275"
+    "image": "images/product_322_hq.png",
+    "originalText": "Product Name : File Folder \nPrice : 275",
+    "industries": [
+      "corporate"
+    ]
   },
   {
     "id": 33,
     "page": 34,
     "name": "Earthy Textured Dining Table Runner",
     "price": "300",
-    "dimensions": "Height 13” / Width 11”",
+    "dimensions": "Height 13\u201d / Width 11\u201d",
     "category": "Mats & Covers",
-    "image": "images/page_34_img_1.jpeg",
-    "originalText": "33. Banana Fibre Mat Table Runner \nDimension : Height 13” / Width 11” \nPrice : 300"
+    "image": "images/product_33_hq.png",
+    "originalText": "33. Banana Fibre Mat Table Runner \nDimension : Height 13\u201d / Width 11\u201d \nPrice : 300",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 34,
     "page": 35,
     "name": "Jute-Blended Utility Tote",
     "price": "220",
-    "dimensions": "Height 1 Feet / Width 17 “ Product",
+    "dimensions": "Height 1 Feet / Width 17 \u201c Product",
     "category": "Jute Products",
-    "image": "images/page_35_img_1.jpeg",
-    "originalText": "34. Banana Fibre Value Added with Jute \nDimension : Height 1 Feet / Width 17 “ Product \nName : Wall Holder \nPrice : 220"
+    "image": "images/product_34_hq.png",
+    "originalText": "34. Banana Fibre Value Added with Jute \nDimension : Height 1 Feet / Width 17 \u201c Product \nName : Wall Holder \nPrice : 220",
+    "industries": [
+      "corporate"
+    ]
   },
   {
     "id": 35,
@@ -356,8 +504,13 @@
     "price": "550",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_36_img_1.jpeg",
-    "originalText": "35. Banana Fibre Handmade Decors \nProduct Name : \nPooja Basket  \n \nPrice :550"
+    "image": "images/product_35_hq.png",
+    "originalText": "35. Banana Fibre Handmade Decors \nProduct Name : \nPooja Basket  \n \nPrice :550",
+    "industries": [
+      "hotels",
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 36,
@@ -366,8 +519,14 @@
     "price": "100",
     "dimensions": "",
     "category": "Mats & Covers",
-    "image": "images/page_37_img_1.jpeg",
-    "originalText": "36. Banana Fibre Mat Pencil Pouch \nProduct Name – Pencil Pouch Retail  \n \nPrice :100"
+    "image": "images/product_36_hq.png",
+    "originalText": "36. Banana Fibre Mat Pencil Pouch \nProduct Name \u2013 Pencil Pouch Retail  \n \nPrice :100",
+    "industries": [
+      "hotels",
+      "corporate",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 37,
@@ -376,8 +535,13 @@
     "price": "650",
     "dimensions": "",
     "category": "Baskets & Trays",
-    "image": "images/page_38_img_1.jpeg",
-    "originalText": "37. Banana Bark Wedding Return Gifts Baskets \nProduct Name : \nBanana Bark Handmade \nWedding Return gifts Basket  \nPrice : 1800 Wholesale"
+    "image": "images/product_37_hq.png",
+    "originalText": "37. Banana Bark Wedding Return Gifts Baskets \nProduct Name : \nBanana Bark Handmade \nWedding Return gifts Basket  \nPrice : 1800 Wholesale",
+    "industries": [
+      "hotels",
+      "weddings",
+      "food"
+    ]
   },
   {
     "id": 38,
@@ -386,8 +550,11 @@
     "price": "500",
     "dimensions": "",
     "category": "Bags & Handbags",
-    "image": "images/page_39_img_1.jpeg",
-    "originalText": "38. Banana Fiber Ladies Hand bag(RD) \nProduct Name : \nBanana Fiber Ladies Hand bag \n(RD) \nPrice :500"
+    "image": "images/product_38_hq.png",
+    "originalText": "38. Banana Fiber Ladies Hand bag(RD) \nProduct Name : \nBanana Fiber Ladies Hand bag \n(RD) \nPrice :500",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 39,
@@ -396,8 +563,11 @@
     "price": "600",
     "dimensions": "",
     "category": "Bags & Handbags",
-    "image": "images/page_40_img_1.jpeg",
-    "originalText": "39. Banana Fibre Tap Bag \nProduct Name : \nBanana Fibre Tap bag  \n \nPrice : 600"
+    "image": "images/product_39_hq.png",
+    "originalText": "39. Banana Fibre Tap Bag \nProduct Name : \nBanana Fibre Tap bag  \n \nPrice : 600",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 40,
@@ -406,8 +576,13 @@
     "price": "300",
     "dimensions": "",
     "category": "Mats & Covers",
-    "image": "images/page_41_img_1.jpeg",
-    "originalText": "40. Banana Fibre Handmade Mat with Shell \nProduct Name : \nBanana Fibre Handmade Mat  \nPrice : 300"
+    "image": "images/product_40_hq.png",
+    "originalText": "40. Banana Fibre Handmade Mat with Shell \nProduct Name : \nBanana Fibre Handmade Mat  \nPrice : 300",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 41,
@@ -416,8 +591,13 @@
     "price": "80 Wholesale",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_42_img_1.jpeg",
-    "originalText": "41. Banana Extraction wastage Plates (organic ) \nProduct Name : \nBanana Extraction wastage \nPlates (organic ) \nPrice : 80 Wholesale"
+    "image": "images/product_41_hq.png",
+    "originalText": "41. Banana Extraction wastage Plates (organic ) \nProduct Name : \nBanana Extraction wastage \nPlates (organic ) \nPrice : 80 Wholesale",
+    "industries": [
+      "lifestyle",
+      "food",
+      "interiors"
+    ]
   },
   {
     "id": 42,
@@ -426,8 +606,13 @@
     "price": "450",
     "dimensions": "",
     "category": "Mats & Covers",
-    "image": "images/page_43_img_1.jpeg",
-    "originalText": "42. Handmade Banana Fibre Mat with photo frame \nProduct Name : \nHandmade Banana Fibre Mat \nwith photo frame \nPrice : 450"
+    "image": "images/product_42_hq.png",
+    "originalText": "42. Handmade Banana Fibre Mat with photo frame \nProduct Name : \nHandmade Banana Fibre Mat \nwith photo frame \nPrice : 450",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 43,
@@ -436,8 +621,11 @@
     "price": "650(1 Set 3 pieces)",
     "dimensions": "",
     "category": "Wedding Return Gifts",
-    "image": "images/page_44_img_1.jpeg",
-    "originalText": "43. Banana Bark Wedding Return Gifts \nProduct Name : \nBanana Bark Handmade \nWedding Return gifts \nPrice : 650(1 Set 3 pieces)"
+    "image": "images/product_43_hq.png",
+    "originalText": "43. Banana Bark Wedding Return Gifts \nProduct Name : \nBanana Bark Handmade \nWedding Return gifts \nPrice : 650(1 Set 3 pieces)",
+    "industries": [
+      "weddings"
+    ]
   },
   {
     "id": 44,
@@ -446,8 +634,11 @@
     "price": "300",
     "dimensions": "",
     "category": "Wedding Return Gifts",
-    "image": "images/page_45_img_1.jpeg",
-    "originalText": "44. Banana Bark Wedding Return Gifts \nProduct Name : \nBanana Bark Handmade \nWedding Return gifts  \nPrice : 300"
+    "image": "images/product_44_hq.png",
+    "originalText": "44. Banana Bark Wedding Return Gifts \nProduct Name : \nBanana Bark Handmade \nWedding Return gifts  \nPrice : 300",
+    "industries": [
+      "weddings"
+    ]
   },
   {
     "id": 45,
@@ -456,8 +647,11 @@
     "price": "300",
     "dimensions": "",
     "category": "Wedding Return Gifts",
-    "image": "images/page_46_img_1.jpeg",
-    "originalText": "45. Banana Bark Wedding Return Gifts \nProduct Name : \nBanana Bark Handmade \nWedding Return gifts  \nPrice : 300"
+    "image": "images/product_45_hq.png",
+    "originalText": "45. Banana Bark Wedding Return Gifts \nProduct Name : \nBanana Bark Handmade \nWedding Return gifts  \nPrice : 300",
+    "industries": [
+      "weddings"
+    ]
   },
   {
     "id": 46,
@@ -466,8 +660,11 @@
     "price": "150",
     "dimensions": "",
     "category": "Wedding Return Gifts",
-    "image": "images/page_47_img_1.jpeg",
-    "originalText": "46. Banana Bark Wedding Return Gifts \nProduct Name : \nBanana Bark Handmade \nWedding Return gifts  \n \nPrice : 150"
+    "image": "images/product_46_hq.png",
+    "originalText": "46. Banana Bark Wedding Return Gifts \nProduct Name : \nBanana Bark Handmade \nWedding Return gifts  \n \nPrice : 150",
+    "industries": [
+      "weddings"
+    ]
   },
   {
     "id": 47,
@@ -476,8 +673,11 @@
     "price": "300",
     "dimensions": "",
     "category": "Wedding Return Gifts",
-    "image": "images/page_48_img_1.jpeg",
-    "originalText": "47. Banana Bark Wedding Return Gifts \nProduct Name : \nBanana Bark Handmade \nWedding Return gifts  \nPrice : 300"
+    "image": "images/product_47_hq.png",
+    "originalText": "47. Banana Bark Wedding Return Gifts \nProduct Name : \nBanana Bark Handmade \nWedding Return gifts  \nPrice : 300",
+    "industries": [
+      "weddings"
+    ]
   },
   {
     "id": 48,
@@ -486,8 +686,11 @@
     "price": "300",
     "dimensions": "",
     "category": "Wedding Return Gifts",
-    "image": "images/page_49_img_1.jpeg",
-    "originalText": "48. Banana Bark Wedding Return Gifts \nProduct Name : \nBanana Bark Handmade \nWedding Return gifts  \nPrice : 300"
+    "image": "images/product_48_hq.png",
+    "originalText": "48. Banana Bark Wedding Return Gifts \nProduct Name : \nBanana Bark Handmade \nWedding Return gifts  \nPrice : 300",
+    "industries": [
+      "weddings"
+    ]
   },
   {
     "id": 49,
@@ -496,8 +699,11 @@
     "price": "600",
     "dimensions": "",
     "category": "Bags & Handbags",
-    "image": "images/page_50_img_1.jpeg",
-    "originalText": "49. Banana Fiber Ladies Hand bag(Square) \nProduct Name : \nBanana Fiber Ladies Hand \nbag(Square) \nPrice : 600"
+    "image": "images/product_49_hq.png",
+    "originalText": "49. Banana Fiber Ladies Hand bag(Square) \nProduct Name : \nBanana Fiber Ladies Hand \nbag(Square) \nPrice : 600",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 50,
@@ -506,8 +712,11 @@
     "price": "200",
     "dimensions": "",
     "category": "Wedding Return Gifts",
-    "image": "images/page_51_img_1.jpeg",
-    "originalText": "50. Banana Fiber Wedding Return Gifts \nProduct Name : \nBanana Bark Handmade \nWedding Return gifts  \nPrice : 200"
+    "image": "images/product_50_hq.png",
+    "originalText": "50. Banana Fiber Wedding Return Gifts \nProduct Name : \nBanana Bark Handmade \nWedding Return gifts  \nPrice : 200",
+    "industries": [
+      "weddings"
+    ]
   },
   {
     "id": 51,
@@ -516,8 +725,13 @@
     "price": "250",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_52_img_1.jpeg",
-    "originalText": "51. Banana Fibre Sanitary Pads \nProduct Name : \nBanana Fibre Sanitary Pads \nPrice : 250"
+    "image": "images/product_51_hq.png",
+    "originalText": "51. Banana Fibre Sanitary Pads \nProduct Name : \nBanana Fibre Sanitary Pads \nPrice : 250",
+    "industries": [
+      "lifestyle",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 52,
@@ -526,8 +740,13 @@
     "price": "600",
     "dimensions": "",
     "category": "Mats & Covers",
-    "image": "images/page_53_img_1.jpeg",
-    "originalText": "52. Banana Fiber Handmade Mat with Handmade Paint \nProduct Name : \nBanana Fiber Handmade Mat \nwith Handmade Paint \nPrice : 600"
+    "image": "images/product_52_hq.png",
+    "originalText": "52. Banana Fiber Handmade Mat with Handmade Paint \nProduct Name : \nBanana Fiber Handmade Mat \nwith Handmade Paint \nPrice : 600",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 53,
@@ -536,8 +755,13 @@
     "price": "600",
     "dimensions": "",
     "category": "Mats & Covers",
-    "image": "images/page_54_img_1.jpeg",
-    "originalText": "53. Banana Fiber Handmade Mat with Handmade Paint \nProduct Name : \nBanana Fiber Handmade Mat \nwith Handmade Paint \nPrice : 600"
+    "image": "images/product_53_hq.png",
+    "originalText": "53. Banana Fiber Handmade Mat with Handmade Paint \nProduct Name : \nBanana Fiber Handmade Mat \nwith Handmade Paint \nPrice : 600",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 54,
@@ -546,8 +770,11 @@
     "price": "1100",
     "dimensions": "",
     "category": "Bags & Handbags",
-    "image": "images/page_55_img_1.jpeg",
-    "originalText": "54. Banana Fibre Handmade Ladies Bag \nProduct Name : \n54.Banana Fibre Handmade Ladies \nBag \nPrice : 1100"
+    "image": "images/product_54_hq.png",
+    "originalText": "54. Banana Fibre Handmade Ladies Bag \nProduct Name : \n54.Banana Fibre Handmade Ladies \nBag \nPrice : 1100",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 55,
@@ -556,8 +783,11 @@
     "price": "990",
     "dimensions": "",
     "category": "Bags & Handbags",
-    "image": "images/page_56_img_1.jpeg",
-    "originalText": "55. Banana Fiber Handmade Bag \nProduct Name : \nBanana Fiber Handmade Bag \nPrice : 990"
+    "image": "images/product_55_hq.png",
+    "originalText": "55. Banana Fiber Handmade Bag \nProduct Name : \nBanana Fiber Handmade Bag \nPrice : 990",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 56,
@@ -566,8 +796,11 @@
     "price": "1100",
     "dimensions": "",
     "category": "Bags & Handbags",
-    "image": "images/page_57_img_1.jpeg",
-    "originalText": "56. Banana Fiber Handbag \nProduct Name : \nBanana Fibre Handbag \nPrice : 1100"
+    "image": "images/product_56_hq.png",
+    "originalText": "56. Banana Fiber Handbag \nProduct Name : \nBanana Fibre Handbag \nPrice : 1100",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 57,
@@ -576,8 +809,12 @@
     "price": "250",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_58_img_1.jpeg",
-    "originalText": "57. Banana Fibre Handmade Décor \nProduct Name : \nBanana Fibre Handmade Décor \nPrice : 250"
+    "image": "images/product_57_hq.png",
+    "originalText": "57. Banana Fibre Handmade D\u00e9cor \nProduct Name : \nBanana Fibre Handmade D\u00e9cor \nPrice : 250",
+    "industries": [
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 58,
@@ -586,8 +823,12 @@
     "price": "250",
     "dimensions": "",
     "category": "Wedding Return Gifts",
-    "image": "images/page_59_img_1.jpeg",
-    "originalText": "58. Banana Fibre Handmade Gift Decor \nProduct Name : \nBanana Fibre Handmade Decor \nPrice : 250"
+    "image": "images/product_58_hq.png",
+    "originalText": "58. Banana Fibre Handmade Gift Decor \nProduct Name : \nBanana Fibre Handmade Decor \nPrice : 250",
+    "industries": [
+      "hotels",
+      "weddings"
+    ]
   },
   {
     "id": 59,
@@ -596,8 +837,11 @@
     "price": "350",
     "dimensions": "",
     "category": "Wedding Return Gifts",
-    "image": "images/page_60_img_1.jpeg",
-    "originalText": "59. Banana Fiber Wedding Return Gifts \nProduct Name : \nBanana Fiber Wedding Return \nGifts \nPrice : 350"
+    "image": "images/product_59_hq.png",
+    "originalText": "59. Banana Fiber Wedding Return Gifts \nProduct Name : \nBanana Fiber Wedding Return \nGifts \nPrice : 350",
+    "industries": [
+      "weddings"
+    ]
   },
   {
     "id": 60,
@@ -606,8 +850,11 @@
     "price": "250",
     "dimensions": "",
     "category": "Wedding Return Gifts",
-    "image": "images/page_61_img_1.jpeg",
-    "originalText": "60. Banana Fibre Showcase Gifting Item \nProduct Name : Banana \nFibre Showcase Gifting \nItem \n \nPrice : 250"
+    "image": "images/product_60_hq.png",
+    "originalText": "60. Banana Fibre Showcase Gifting Item \nProduct Name : Banana \nFibre Showcase Gifting \nItem \n \nPrice : 250",
+    "industries": [
+      "weddings"
+    ]
   },
   {
     "id": 61,
@@ -616,8 +863,11 @@
     "price": "350",
     "dimensions": "",
     "category": "Wedding Return Gifts",
-    "image": "images/page_62_img_1.jpeg",
-    "originalText": "61. Banana Fiber Handmade Wedding Return Gifts \nProduct Name : \nBanana Fiber Handmade \nWedding Return Gifts \nPrice : 350"
+    "image": "images/product_61_hq.png",
+    "originalText": "61. Banana Fiber Handmade Wedding Return Gifts \nProduct Name : \nBanana Fiber Handmade \nWedding Return Gifts \nPrice : 350",
+    "industries": [
+      "weddings"
+    ]
   },
   {
     "id": 62,
@@ -626,8 +876,11 @@
     "price": "350",
     "dimensions": "",
     "category": "Wedding Return Gifts",
-    "image": "images/page_63_img_1.jpeg",
-    "originalText": "62. Banana Fibre Handmade Showcase Gifts \nProduct Name : \nBanana Fibre Handmade \nShowcase Gifts \nPrice : 350"
+    "image": "images/product_62_hq.png",
+    "originalText": "62. Banana Fibre Handmade Showcase Gifts \nProduct Name : \nBanana Fibre Handmade \nShowcase Gifts \nPrice : 350",
+    "industries": [
+      "weddings"
+    ]
   },
   {
     "id": 63,
@@ -636,8 +889,11 @@
     "price": "325",
     "dimensions": "",
     "category": "Wedding Return Gifts",
-    "image": "images/page_64_img_1.jpeg",
-    "originalText": "63. Banana Fibre Handmade Showcase Gifts \nProduct Name : \nBanana Fibre Handmade \nShowcase Gifts \nPrice :325"
+    "image": "images/product_63_hq.png",
+    "originalText": "63. Banana Fibre Handmade Showcase Gifts \nProduct Name : \nBanana Fibre Handmade \nShowcase Gifts \nPrice :325",
+    "industries": [
+      "weddings"
+    ]
   },
   {
     "id": 64,
@@ -646,8 +902,11 @@
     "price": "250",
     "dimensions": "",
     "category": "Wedding Return Gifts",
-    "image": "images/page_65_img_1.jpeg",
-    "originalText": "64. Banana Fibre Handmade Showcase Gifts \nProduct Name : \nBanana Fibre Handmade \nShowcase Gifts \nPrice :250"
+    "image": "images/product_64_hq.png",
+    "originalText": "64. Banana Fibre Handmade Showcase Gifts \nProduct Name : \nBanana Fibre Handmade \nShowcase Gifts \nPrice :250",
+    "industries": [
+      "weddings"
+    ]
   },
   {
     "id": 65,
@@ -656,8 +915,13 @@
     "price": "300",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_66_img_1.jpeg",
-    "originalText": "65. Banana Fibre Handmade Head cap \nProduct Name : \nBanana Fiber Handmade Head Cap \nPrice : 300"
+    "image": "images/product_65_hq.png",
+    "originalText": "65. Banana Fibre Handmade Head cap \nProduct Name : \nBanana Fiber Handmade Head Cap \nPrice : 300",
+    "industries": [
+      "lifestyle",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 66,
@@ -666,8 +930,13 @@
     "price": "400",
     "dimensions": "",
     "category": "Mats & Covers",
-    "image": "images/page_67_img_1.jpeg",
-    "originalText": "66. Banana Fibre Handmade Floor Mat \nProduct Name : \nBanana Fiber Handmade Floor Mat \n \nPrice : 400"
+    "image": "images/product_66_hq.png",
+    "originalText": "66. Banana Fibre Handmade Floor Mat \nProduct Name : \nBanana Fiber Handmade Floor Mat \n \nPrice : 400",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 67,
@@ -676,8 +945,13 @@
     "price": "450",
     "dimensions": "",
     "category": "Mats & Covers",
-    "image": "images/page_68_img_1.jpeg",
-    "originalText": "67. Banana Fibre Handmade Mat \nProduct Name : \nBanana Fibre Handmade Mat  \nPrice : 450"
+    "image": "images/product_67_hq.png",
+    "originalText": "67. Banana Fibre Handmade Mat \nProduct Name : \nBanana Fibre Handmade Mat  \nPrice : 450",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 68,
@@ -686,8 +960,12 @@
     "price": "800",
     "dimensions": "",
     "category": "Bags & Handbags",
-    "image": "images/page_69_img_1.jpeg",
-    "originalText": "68. Banana Fibre Handmade Lunch Bag \nProduct Name : \nBanana Fiber Handmade Lunch \nBag \nPrice : 800"
+    "image": "images/product_68_hq.png",
+    "originalText": "68. Banana Fibre Handmade Lunch Bag \nProduct Name : \nBanana Fiber Handmade Lunch \nBag \nPrice : 800",
+    "industries": [
+      "corporate",
+      "lifestyle"
+    ]
   },
   {
     "id": 69,
@@ -696,8 +974,13 @@
     "price": "250",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_70_img_1.jpeg",
-    "originalText": "69. Banana Fibre Handmade Decor \nProduct Name : \nBanana Fibre Handmade Decor  \n \nPrice: 250"
+    "image": "images/product_69_hq.png",
+    "originalText": "69. Banana Fibre Handmade Decor \nProduct Name : \nBanana Fibre Handmade Decor  \n \nPrice: 250",
+    "industries": [
+      "hotels",
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 70,
@@ -706,8 +989,13 @@
     "price": "1500",
     "dimensions": "",
     "category": "Mats & Covers",
-    "image": "images/page_71_img_1.jpeg",
-    "originalText": "70. Banana Fibre Handmade Mat \nProduct Name : \nBanana Fiber Handmade Mat \n \nPrice : 1500"
+    "image": "images/product_70_hq.png",
+    "originalText": "70. Banana Fibre Handmade Mat \nProduct Name : \nBanana Fiber Handmade Mat \n \nPrice : 1500",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 71,
@@ -716,8 +1004,11 @@
     "price": "1100",
     "dimensions": "",
     "category": "Bags & Handbags",
-    "image": "images/page_72_img_1.jpeg",
-    "originalText": "71. Banana Fibre Handmade Shopping Bag \nProduct Name : \nBanana Fibre Handmade Shopping \nBag \n \nPrice : 1100"
+    "image": "images/product_71_hq.png",
+    "originalText": "71. Banana Fibre Handmade Shopping Bag \nProduct Name : \nBanana Fibre Handmade Shopping \nBag \n \nPrice : 1100",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 72,
@@ -726,8 +1017,11 @@
     "price": "1100",
     "dimensions": "",
     "category": "Bags & Handbags",
-    "image": "images/page_73_img_1.jpeg",
-    "originalText": "72. Banana Fibre Handmade Shopping Bag \nProduct Name : \nBanana Fibre Handmade \nShopping Bag \n \nPrice : 1100"
+    "image": "images/product_72_hq.png",
+    "originalText": "72. Banana Fibre Handmade Shopping Bag \nProduct Name : \nBanana Fibre Handmade \nShopping Bag \n \nPrice : 1100",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 73,
@@ -736,8 +1030,11 @@
     "price": "1100",
     "dimensions": "",
     "category": "Bags & Handbags",
-    "image": "images/page_74_img_1.jpeg",
-    "originalText": "73. Banana Fibre Handmade Ladies Bag \nProduct Name : \nBanana Fibre Handmade Ladies \nBag \nPrice : 1100"
+    "image": "images/product_73_hq.png",
+    "originalText": "73. Banana Fibre Handmade Ladies Bag \nProduct Name : \nBanana Fibre Handmade Ladies \nBag \nPrice : 1100",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 74,
@@ -746,8 +1043,13 @@
     "price": "300",
     "dimensions": "",
     "category": "Mats & Covers",
-    "image": "images/page_75_img_1.jpeg",
-    "originalText": "74. Banana Fiber Handmade Mat \nProduct Name : \nBanana Fibre Handmade Mat  \n \nPrice :300"
+    "image": "images/product_74_hq.png",
+    "originalText": "74. Banana Fiber Handmade Mat \nProduct Name : \nBanana Fibre Handmade Mat  \n \nPrice :300",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 75,
@@ -756,8 +1058,13 @@
     "price": "300",
     "dimensions": "",
     "category": "Mats & Covers",
-    "image": "images/page_76_img_1.jpeg",
-    "originalText": "76.Banana Fiber Handmade MAT (Designs) \nProduct Name : Banana \nFibre Handmade Mat \n(Designs) \n \nPrice : 300"
+    "image": "images/product_75_hq.png",
+    "originalText": "76.Banana Fiber Handmade MAT (Designs) \nProduct Name : Banana \nFibre Handmade Mat \n(Designs) \n \nPrice : 300",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 76,
@@ -766,8 +1073,11 @@
     "price": "350",
     "dimensions": "",
     "category": "Bags & Handbags",
-    "image": "images/page_77_img_1.jpeg",
-    "originalText": "19.Shopping Bag (JUTE with Printed) \nProduct Name : \nShopping Bag (Jute With Printed)  \n \nPrice : 350"
+    "image": "images/product_76_hq.png",
+    "originalText": "19.Shopping Bag (JUTE with Printed) \nProduct Name : \nShopping Bag (Jute With Printed)  \n \nPrice : 350",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 77,
@@ -776,8 +1086,12 @@
     "price": "150",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_78_img_1.jpeg",
-    "originalText": "78. Banana Fiber Puja Broom \nProduct Name : \nBanana Fiber Pooja Groom  \n \nPrice : 150"
+    "image": "images/product_77_hq.png",
+    "originalText": "78. Banana Fiber Puja Broom \nProduct Name : \nBanana Fiber Pooja Groom  \n \nPrice : 150",
+    "industries": [
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 78,
@@ -786,8 +1100,13 @@
     "price": "250",
     "dimensions": "",
     "category": "Baskets & Trays",
-    "image": "images/page_79_img_1.jpeg",
-    "originalText": "79. Banana Fibre Pooja Basket \nProduct Name : \nBanana Fibre Pooja Basket  \n \nPrice :250"
+    "image": "images/product_78_hq.png",
+    "originalText": "79. Banana Fibre Pooja Basket \nProduct Name : \nBanana Fibre Pooja Basket  \n \nPrice :250",
+    "industries": [
+      "hotels",
+      "weddings",
+      "food"
+    ]
   },
   {
     "id": 79,
@@ -796,8 +1115,11 @@
     "price": "450",
     "dimensions": "",
     "category": "Bags & Handbags",
-    "image": "images/page_80_img_1.jpeg",
-    "originalText": "80. Banana Fiber Handmade Stylish Handbag \nProduct Name : \nBanana Fibre Handmade Stylish Handbag  \n \nPrice :450"
+    "image": "images/product_79_hq.png",
+    "originalText": "80. Banana Fiber Handmade Stylish Handbag \nProduct Name : \nBanana Fibre Handmade Stylish Handbag  \n \nPrice :450",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 80,
@@ -806,8 +1128,11 @@
     "price": "500",
     "dimensions": "",
     "category": "Bags & Handbags",
-    "image": "images/page_81_img_1.jpeg",
-    "originalText": "81. Banana Fiber Handmade Stylish Handbag \nProduct Name : \nBanana Fibre Handmade Stylish Handbag  \n \nPrice : 500"
+    "image": "images/product_80_hq.png",
+    "originalText": "81. Banana Fiber Handmade Stylish Handbag \nProduct Name : \nBanana Fibre Handmade Stylish Handbag  \n \nPrice : 500",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 81,
@@ -816,8 +1141,12 @@
     "price": "1200",
     "dimensions": "",
     "category": "Baskets & Trays",
-    "image": "images/page_82_img_1.jpeg",
-    "originalText": "82. Banana fiber Handmade Planter \nProduct Name : \nBanana Fibre Planter  \n \n Price :1200"
+    "image": "images/product_81_hq.png",
+    "originalText": "82. Banana fiber Handmade Planter \nProduct Name : \nBanana Fibre Planter  \n \n Price :1200",
+    "industries": [
+      "hotels",
+      "lifestyle"
+    ]
   },
   {
     "id": 82,
@@ -826,8 +1155,13 @@
     "price": "200",
     "dimensions": "",
     "category": "Mats & Covers",
-    "image": "images/page_83_img_1.jpeg",
-    "originalText": "83. Banana Fiber Mat Sandals \nProduct Name : Banana Fibre Mat \nSandals \n \nPrice : 200"
+    "image": "images/product_82_hq.png",
+    "originalText": "83. Banana Fiber Mat Sandals \nProduct Name : Banana Fibre Mat \nSandals \n \nPrice : 200",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 83,
@@ -836,8 +1170,12 @@
     "price": "200",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_84_img_1.jpeg",
-    "originalText": "84. Banana Fiber \nSandals \nProduct Name : \nBanana Fibre sandals \nRetail Price :200  \nSize : VKC Brand 6,7,8,9,10"
+    "image": "images/product_83_hq.png",
+    "originalText": "84. Banana Fiber \nSandals \nProduct Name : \nBanana Fibre sandals \nRetail Price :200  \nSize : VKC Brand 6,7,8,9,10",
+    "industries": [
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 84,
@@ -846,8 +1184,13 @@
     "price": "1100",
     "dimensions": "",
     "category": "Baskets & Trays",
-    "image": "images/page_85_img_1.jpeg",
-    "originalText": "85. Banana Bark Handmade Basket \nProduct Name : Banana Bark Handmade \nBasket \n \nPrice : 1100"
+    "image": "images/product_84_hq.png",
+    "originalText": "85. Banana Bark Handmade Basket \nProduct Name : Banana Bark Handmade \nBasket \n \nPrice : 1100",
+    "industries": [
+      "hotels",
+      "weddings",
+      "food"
+    ]
   },
   {
     "id": 85,
@@ -856,8 +1199,13 @@
     "price": "350",
     "dimensions": "",
     "category": "Mats & Covers",
-    "image": "images/page_86_img_1.jpeg",
-    "originalText": "86. Banana Fiber Handmade Design Mat \nProduct Name : \nBanana Fibre Handmade Design Mat  \n \nPrice :350"
+    "image": "images/product_85_hq.png",
+    "originalText": "86. Banana Fiber Handmade Design Mat \nProduct Name : \nBanana Fibre Handmade Design Mat  \n \nPrice :350",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 86,
@@ -866,8 +1214,13 @@
     "price": "250",
     "dimensions": "",
     "category": "Mats & Covers",
-    "image": "images/page_87_img_1.jpeg",
-    "originalText": "87. Banana Fiber Mat Pillow Cover \nProduct Name : Banana Fibre Mat Pillow Cover \n \nPrice :250"
+    "image": "images/product_86_hq.png",
+    "originalText": "87. Banana Fiber Mat Pillow Cover \nProduct Name : Banana Fibre Mat Pillow Cover \n \nPrice :250",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 87,
@@ -876,8 +1229,13 @@
     "price": "Per Meter 300",
     "dimensions": "",
     "category": "Mats & Covers",
-    "image": "images/page_88_img_1.jpeg",
-    "originalText": "88. Banana Fiber Handmade Mat Curtains \nProduct Name : \nBanana Fibre Handmade Mat Curtains  \n \nPrice : Per Meter 300"
+    "image": "images/product_87_hq.png",
+    "originalText": "88. Banana Fiber Handmade Mat Curtains \nProduct Name : \nBanana Fibre Handmade Mat Curtains  \n \nPrice : Per Meter 300",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 88,
@@ -886,8 +1244,12 @@
     "price": "Per Meter 5",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_89_img_1.jpeg",
-    "originalText": "89. Banana Fiber Single Twisted Rope \nProduct Name : \nBanana Fibre Single Twisted Rope \n \nPrice : Per Meter 5"
+    "image": "images/product_88_hq.png",
+    "originalText": "89. Banana Fiber Single Twisted Rope \nProduct Name : \nBanana Fibre Single Twisted Rope \n \nPrice : Per Meter 5",
+    "industries": [
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 89,
@@ -896,8 +1258,12 @@
     "price": "250",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_90_img_1.jpeg",
-    "originalText": "90. Banana Fiber Handmade Water Can Holder \nProduct Name : \nBanana Fibre Handmade Water Can Holder  \n \nPrice : 250"
+    "image": "images/product_89_hq.png",
+    "originalText": "90. Banana Fiber Handmade Water Can Holder \nProduct Name : \nBanana Fibre Handmade Water Can Holder  \n \nPrice : 250",
+    "industries": [
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 90,
@@ -906,8 +1272,11 @@
     "price": "220",
     "dimensions": "",
     "category": "Bags & Handbags",
-    "image": "images/page_91_img_1.jpeg",
-    "originalText": "91. Water Can Bag \nProduct Name : \nBanana Fibre Mat Water \nCan Bottle Bag  \n \nPrice :220"
+    "image": "images/product_90_hq.png",
+    "originalText": "91. Water Can Bag \nProduct Name : \nBanana Fibre Mat Water \nCan Bottle Bag  \n \nPrice :220",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 91,
@@ -916,8 +1285,14 @@
     "price": "550",
     "dimensions": "",
     "category": "Bags & Handbags",
-    "image": "images/page_92_img_1.jpeg",
-    "originalText": "92. Banana Fiber Mat Shopping Bag \nPrice :550"
+    "image": "images/product_91_hq.png",
+    "originalText": "92. Banana Fiber Mat Shopping Bag \nPrice :550",
+    "industries": [
+      "hotels",
+      "lifestyle",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 92,
@@ -926,8 +1301,13 @@
     "price": "250",
     "dimensions": "",
     "category": "Mats & Covers",
-    "image": "images/page_93_img_1.jpeg",
-    "originalText": "93. Banana Fiber Mat Sandals \nProduct Name : \nBanana Fibre Mat Sandals (onetime \nuse) \n \nPrice :250"
+    "image": "images/product_92_hq.png",
+    "originalText": "93. Banana Fiber Mat Sandals \nProduct Name : \nBanana Fibre Mat Sandals (onetime \nuse) \n \nPrice :250",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 93,
@@ -936,8 +1316,13 @@
     "price": "550",
     "dimensions": "",
     "category": "Mats & Covers",
-    "image": "images/page_94_img_1.jpeg",
-    "originalText": "94. Banana Fiber Mat \nBag(Leather) \nProduct Name : \nBanana Fibre Mat Ladies Bag With Leather \nHandle \nPrice :550"
+    "image": "images/product_93_hq.png",
+    "originalText": "94. Banana Fiber Mat \nBag(Leather) \nProduct Name : \nBanana Fibre Mat Ladies Bag With Leather \nHandle \nPrice :550",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 94,
@@ -946,8 +1331,12 @@
     "price": "400",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_95_img_1.jpeg",
-    "originalText": "95. Banana Fiber Storage Box \n(Rectangular type) \nProduct Name : \nBanana Fibre Handmade Storage Box \n \nPrice : 400"
+    "image": "images/product_94_hq.png",
+    "originalText": "95. Banana Fiber Storage Box \n(Rectangular type) \nProduct Name : \nBanana Fibre Handmade Storage Box \n \nPrice : 400",
+    "industries": [
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 95,
@@ -956,8 +1345,12 @@
     "price": "150",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_96_img_1.jpeg",
-    "originalText": "96. Banana Fiber Garlands \nProduct Name : Banana Fibre Garlands \n  \nPrice :150"
+    "image": "images/product_95_hq.png",
+    "originalText": "96. Banana Fiber Garlands \nProduct Name : Banana Fibre Garlands \n  \nPrice :150",
+    "industries": [
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 96,
@@ -966,8 +1359,11 @@
     "price": "220",
     "dimensions": "",
     "category": "Bags & Handbags",
-    "image": "images/page_97_img_1.jpeg",
-    "originalText": "97. Wedding Bag (JUTE) \nProduct Name : Wedding Bag (Jute) \n \nPrice :220"
+    "image": "images/product_96_hq.png",
+    "originalText": "97. Wedding Bag (JUTE) \nProduct Name : Wedding Bag (Jute) \n \nPrice :220",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 97,
@@ -976,8 +1372,11 @@
     "price": "220(UPTO 500 Pieces)",
     "dimensions": "",
     "category": "Bags & Handbags",
-    "image": "images/page_98_img_1.jpeg",
-    "originalText": "98. Wedding Bag (JUTE) \nProduct Name : \nWedding Bag (JUTE) \nPrice :220(UPTO 500 Pieces) \nSize : 10” Height /10”Width"
+    "image": "images/product_97_hq.png",
+    "originalText": "98. Wedding Bag (JUTE) \nProduct Name : \nWedding Bag (JUTE) \nPrice :220(UPTO 500 Pieces) \nSize : 10\u201d Height /10\u201dWidth",
+    "industries": [
+      "lifestyle"
+    ]
   },
   {
     "id": 98,
@@ -986,8 +1385,13 @@
     "price": "1500",
     "dimensions": "",
     "category": "Baskets & Trays",
-    "image": "images/page_99_img_1.jpeg",
-    "originalText": "99. Banana Bark Handmade Basket with Bamboo \nHandle \nProduct Name : \nBanana Bark Handmade Basket \n(Bamboo Handle )  \n \nPrice :1500"
+    "image": "images/product_98_hq.png",
+    "originalText": "99. Banana Bark Handmade Basket with Bamboo \nHandle \nProduct Name : \nBanana Bark Handmade Basket \n(Bamboo Handle )  \n \nPrice :1500",
+    "industries": [
+      "hotels",
+      "weddings",
+      "food"
+    ]
   },
   {
     "id": 99,
@@ -996,8 +1400,11 @@
     "price": "110",
     "dimensions": "",
     "category": "Wedding Return Gifts",
-    "image": "images/page_100_img_1.jpeg",
-    "originalText": "100. Wedding \nBag (NON-\nWoven ) \nProduct Name : \nWedding Bag (NON –Woven Cloth ) \n \nPrice :110"
+    "image": "images/product_99_hq.png",
+    "originalText": "100. Wedding \nBag (NON-\nWoven ) \nProduct Name : \nWedding Bag (NON \u2013Woven Cloth ) \n \nPrice :110",
+    "industries": [
+      "weddings"
+    ]
   },
   {
     "id": 100,
@@ -1006,8 +1413,11 @@
     "price": "320 (Small)",
     "dimensions": "",
     "category": "Baskets & Trays",
-    "image": "images/page_101_img_1.jpeg",
-    "originalText": "101. Banana Bark Pot \nProduct Name : \nBanana Bark Indoor Plant Pot \n \nPrice : \n320 (Small) \n450(Big)"
+    "image": "images/product_100_hq.png",
+    "originalText": "101. Banana Bark Pot \nProduct Name : \nBanana Bark Indoor Plant Pot \n \nPrice : \n320 (Small) \n450(Big)",
+    "industries": [
+      "hotels"
+    ]
   },
   {
     "id": 101,
@@ -1016,8 +1426,12 @@
     "price": "750",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_102_img_1.jpeg",
-    "originalText": "102. Banana Bark \nBasket with Growbag \nProduct Name : \nBanana Bark Basket With Growbag  \n \nPrice :750"
+    "image": "images/product_101_hq.png",
+    "originalText": "102. Banana Bark \nBasket with Growbag \nProduct Name : \nBanana Bark Basket With Growbag  \n \nPrice :750",
+    "industries": [
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 102,
@@ -1026,8 +1440,12 @@
     "price": "320",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_103_img_1.jpeg",
-    "originalText": "103. Banana Fiber \nMat Storage/Jewel \nBox \nProduct Name : \nBanana Fibre Mat Storage/Jewel Box  \n \nPrice : 320"
+    "image": "images/product_102_hq.png",
+    "originalText": "103. Banana Fiber \nMat Storage/Jewel \nBox \nProduct Name : \nBanana Fibre Mat Storage/Jewel Box  \n \nPrice : 320",
+    "industries": [
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 103,
@@ -1036,8 +1454,12 @@
     "price": "300",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_104_img_1.jpeg",
-    "originalText": "104. Banana Fiber \nHandmade Cap \nProduct Name : \nBanana Fibre Handmade Cap  \n \nPrice :300"
+    "image": "images/product_103_hq.png",
+    "originalText": "104. Banana Fiber \nHandmade Cap \nProduct Name : \nBanana Fibre Handmade Cap  \n \nPrice :300",
+    "industries": [
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 104,
@@ -1046,8 +1468,13 @@
     "price": "120",
     "dimensions": "",
     "category": "Mats & Covers",
-    "image": "images/page_105_img_1.jpeg",
-    "originalText": "105. Banana Fiber Mat Mouse Pad \nProduct Name : \nBanana Fibre Mat Mouse Pad \n \nPrice :120"
+    "image": "images/product_104_hq.png",
+    "originalText": "105. Banana Fiber Mat Mouse Pad \nProduct Name : \nBanana Fibre Mat Mouse Pad \n \nPrice :120",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 105,
@@ -1056,8 +1483,13 @@
     "price": "550",
     "dimensions": "",
     "category": "Baskets & Trays",
-    "image": "images/page_106_img_1.jpeg",
-    "originalText": "106. Banana Fibre Handmade Bread Basket with wooden Plate (Inside Image similar Change ) \nPrice : 550  \nSize : 16 cms Top Height /Dia 38 cms / 36 cms Bottom/4cms Bottom Raise"
+    "image": "images/product_105_hq.png",
+    "originalText": "106. Banana Fibre Handmade Bread Basket with wooden Plate (Inside Image similar Change ) \nPrice : 550  \nSize : 16 cms Top Height /Dia 38 cms / 36 cms Bottom/4cms Bottom Raise",
+    "industries": [
+      "hotels",
+      "weddings",
+      "food"
+    ]
   },
   {
     "id": 106,
@@ -1066,8 +1498,12 @@
     "price": "485",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_107_img_1.jpeg",
-    "originalText": "107. Banana Fiber Stylish \nBag \nProduct Name : \nBanana Fibre Stylish Bag \n(Folding) \nPrice :485"
+    "image": "images/product_106_hq.png",
+    "originalText": "107. Banana Fiber Stylish \nBag \nProduct Name : \nBanana Fibre Stylish Bag \n(Folding) \nPrice :485",
+    "industries": [
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 107,
@@ -1076,8 +1512,12 @@
     "price": "450",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_108_img_1.jpeg",
-    "originalText": "108. Banana Fiber Handmade Spoon Holder \nProduct Name : \nBanana Fibre Handmade Spoon \nHolder \n \nPrice :450"
+    "image": "images/product_107_hq.png",
+    "originalText": "108. Banana Fiber Handmade Spoon Holder \nProduct Name : \nBanana Fibre Handmade Spoon \nHolder \n \nPrice :450",
+    "industries": [
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 108,
@@ -1086,8 +1526,13 @@
     "price": "450",
     "dimensions": "",
     "category": "Mats & Covers",
-    "image": "images/page_109_img_1.jpeg",
-    "originalText": "109. Banana Fiber Mat Tourist \nPurse \nProduct Name : \nBanana Fibre Mat Tourist Purse  \n \nPrice :450"
+    "image": "images/product_108_hq.png",
+    "originalText": "109. Banana Fiber Mat Tourist \nPurse \nProduct Name : \nBanana Fibre Mat Tourist Purse  \n \nPrice :450",
+    "industries": [
+      "hotels",
+      "wellness",
+      "interiors"
+    ]
   },
   {
     "id": 109,
@@ -1096,8 +1541,12 @@
     "price": "550",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_110_img_1.jpeg",
-    "originalText": "110. Banana Fiber \nStylish Handbag \nProduct Name : \nBanana Fibre Stylish Hand Bag  \n \nPrice :550"
+    "image": "images/product_109_hq.png",
+    "originalText": "110. Banana Fiber \nStylish Handbag \nProduct Name : \nBanana Fibre Stylish Hand Bag  \n \nPrice :550",
+    "industries": [
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 110,
@@ -1106,8 +1555,12 @@
     "price": "600",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_111_img_1.jpeg",
-    "originalText": "111. Wall Hanger \nProduct Name : \nBanana Fibre Handmade Wall Hanger   \n \nPrice :600"
+    "image": "images/product_110_hq.png",
+    "originalText": "111. Wall Hanger \nProduct Name : \nBanana Fibre Handmade Wall Hanger   \n \nPrice :600",
+    "industries": [
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 111,
@@ -1116,8 +1569,13 @@
     "price": "500",
     "dimensions": "",
     "category": "Decor & Utility",
-    "image": "images/page_112_img_1.jpeg",
-    "originalText": "112. Banana Fiber \nHandmade Wall Decor \nProduct Name : \nBanana Fibre Handmade Wall Decor \n \nPrice :500"
+    "image": "images/product_111_hq.png",
+    "originalText": "112. Banana Fiber \nHandmade Wall Decor \nProduct Name : \nBanana Fibre Handmade Wall Decor \n \nPrice :500",
+    "industries": [
+      "hotels",
+      "lifestyle",
+      "interiors"
+    ]
   },
   {
     "id": 112,
@@ -1126,7 +1584,12 @@
     "price": "550",
     "dimensions": "",
     "category": "Baskets & Trays",
-    "image": "images/page_113_img_1.jpeg",
-    "originalText": "113. Banana Fiber Handmade Basket 24 \n \n \nProduct Name : \nBanana Fibre Handmade Basket 24   \n \nPrice :550"
+    "image": "images/product_112_hq.png",
+    "originalText": "113. Banana Fiber Handmade Basket 24 \n \n \nProduct Name : \nBanana Fibre Handmade Basket 24   \n \nPrice :550",
+    "industries": [
+      "hotels",
+      "weddings",
+      "food"
+    ]
   }
 ]
