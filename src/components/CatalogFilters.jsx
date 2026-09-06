@@ -1,5 +1,5 @@
 import React from 'react';
-import { Search, SlidersHorizontal, RotateCcw } from 'lucide-react';
+import { Search, RotateCcw, FileText, Sparkles } from 'lucide-react';
 
 const categories = [
   'All Categories',
@@ -45,7 +45,8 @@ const CatalogFilters = ({
   sortBy,
   setSortBy,
   totalResults,
-  onReset
+  onReset,
+  openLineSheet
 }) => {
   const isFiltered =
     searchQuery !== '' ||
@@ -56,13 +57,13 @@ const CatalogFilters = ({
 
   return (
     <div className="catalog-filters-container">
-      {/* Top Search & Results Row */}
+      {/* Top Search, Sort, Line Sheet & Results Row */}
       <div className="filters-top-bar">
         <div className="search-input-wrapper">
           <Search size={18} className="search-icon" />
           <input
             type="text"
-            placeholder="Search all 113 products (e.g. Planter, Bag, Mat, Fruit Tray, Pooja...)"
+            placeholder="Search 113 products (e.g. Planter, Bag, Mat, Fruit Tray, Pooja...)"
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
           />
@@ -73,11 +74,11 @@ const CatalogFilters = ({
 
         <div className="sort-and-results">
           <span className="results-count">
-            Showing <strong>{totalResults}</strong> handcrafted items
+            <strong>{totalResults}</strong> items
           </span>
 
           <div className="sort-selector">
-            <select value={sortBy} onChange={(e) => setSortBy(e.target.value)}>
+            <select value={sortBy} onChange={(e) => setSortBy(e.target.value)} aria-label="Sort products">
               {sortOptions.map(opt => (
                 <option key={opt.value} value={opt.value}>
                   {opt.label}
@@ -86,9 +87,16 @@ const CatalogFilters = ({
             </select>
           </div>
 
+          {openLineSheet && (
+            <button className="btn-linesheet-compact" onClick={openLineSheet} title="Download or print wholesale PDF line sheet">
+              <FileText size={15} />
+              <span className="linesheet-btn-text">Line Sheet PDF</span>
+            </button>
+          )}
+
           {isFiltered && (
             <button className="btn-reset-filters" onClick={onReset} title="Reset all filters">
-              <RotateCcw size={14} /> Reset
+              <RotateCcw size={14} /> <span className="reset-btn-text">Reset</span>
             </button>
           )}
         </div>
